@@ -108,7 +108,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [Wowo51/SymCLI](https://github.com/Wowo51/Sym) - A deterministic symbolic computation engine and C# code analyzer for math verification and vulnerability scanning.
 
 ---
 
