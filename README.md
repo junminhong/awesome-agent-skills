@@ -128,7 +128,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 **Common use cases**: Brand guidelines enforcement, competitor research, content strategy, domain name ideation, internal announcements
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [Sequenzy Email Marketing Skill](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) - Operate Sequenzy email marketing and transactional/product email workflows from AI agents.
 
 ---
 
