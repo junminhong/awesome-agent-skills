@@ -168,7 +168,7 @@ Skills for Git workflows, code review processes, team coordination, and project 
 
 **Common use cases**: Version control automation, pull request management, code review, team synchronization, project planning
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [rarexlabs/p11-public](https://github.com/rarexlabs/p11-public) - Agent-to-human review workflows for shareable docs, comments, replies, and revisions across Codex and Claude Code.
 
 ---
 

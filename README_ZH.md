@@ -168,7 +168,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：版本控制自動化、Pull Request 管理、程式碼審查、團隊同步、專案規劃
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [rarexlabs/p11-public](https://github.com/rarexlabs/p11-public) - 適用於 Codex 與 Claude Code 的 agent-to-human 審閱流程，可建立可分享文件、收集評論、回覆並修訂。
 
 ---
 
