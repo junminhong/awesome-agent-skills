@@ -41,6 +41,20 @@ skills/codex/
 └── security_systems/
 ```
 
+## Community Skill Repositories
+
+### Business & Marketing
+
+- [AI-Native Founder Playbook](https://github.com/MackDing/ai-native-founder-playbook-skill) - Bilingual Agent Skill for startup idea validation, MVP scoping, PMF diagnostics, launch operations, GTM planning, and founder workflows.
+
+### Development & Code Tools
+
+- [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - Chinese Codex `AGENTS.md` and broader AI coding agent rules for keeping changes small, explicit, and verifiable.
+
+### Productivity & Organization
+
+- [Skill Usage](https://github.com/MackDing/skill-usage) - Real-time dashboard for monitoring Codex and other JSONL-based agent skill calls, latency, failures, and idle or redundant skills.
+
 ## Installing Into Codex
 
 Codex loads skills from multiple locations (highest precedence first):

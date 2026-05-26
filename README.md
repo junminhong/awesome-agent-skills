@@ -108,7 +108,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - Chinese Claude Code / Codex / Cursor agent rules that turn Karpathy-inspired coding principles into reusable `CLAUDE.md`, `AGENTS.md`, Cursor Rules, and Claude Code Skill formats.
 
 ---
 
@@ -128,7 +128,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 **Common use cases**: Brand guidelines enforcement, competitor research, content strategy, domain name ideation, internal announcements
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [AI-Native Founder Playbook](https://github.com/MackDing/ai-native-founder-playbook-skill) - Bilingual, vendor-neutral Agent Skill for startup idea validation, customer discovery, MVP scoping, PMF diagnostics, launch operations, GTM planning, and AI-native founder workflows.
 
 ---
 
@@ -158,7 +158,7 @@ Skills for file organization, task management, workflow automation, and producti
 
 **Common use cases**: File system organization, invoice processing, task tracking, automation setup, workflow optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [Skill Usage](https://github.com/MackDing/skill-usage) - Zero-dependency real-time dashboard for monitoring OpenClaw, Hermes-Agent, Claude Code, and Codex skill calls, latency, failures, and redundant or idle skills.
 
 ---
 

@@ -108,7 +108,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：程式碼重構、測試生成、除錯輔助、程式碼審查自動化、網頁測試、建構最佳化
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - 面向中文開發者的 Claude Code / Codex / Cursor agent rules，將 Karpathy 風格的編碼原則整理成可復用的 `CLAUDE.md`、`AGENTS.md`、Cursor Rules 和 Claude Code Skill。
 
 ---
 
@@ -128,7 +128,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：品牌指南執行、競爭對手研究、內容策略、域名創意發想、內部公告
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [AI-Native Founder Playbook](https://github.com/MackDing/ai-native-founder-playbook-skill) - 雙語、供應商中立的 Agent Skill，用於創業想法驗證、客戶探索、MVP 範圍、PMF 診斷、Launch 運營、GTM 規劃和 AI-native founder workflows。
 
 ---
 
@@ -158,7 +158,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：檔案系統組織、發票處理、任務追蹤、自動化設定、工作流程最佳化
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [Skill Usage](https://github.com/MackDing/skill-usage) - 零依賴即時儀表板，用於監控 OpenClaw、Hermes-Agent、Claude Code 和 Codex 的 skill calls、延遲、失敗率，以及冗餘或閒置技能。
 
 ---
 

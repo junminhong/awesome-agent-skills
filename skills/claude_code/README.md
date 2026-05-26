@@ -43,6 +43,20 @@ skills/claude_code/
 └── security_systems/
 ```
 
+## Community Skill Repositories
+
+### Business & Marketing
+
+- [AI-Native Founder Playbook](https://github.com/MackDing/ai-native-founder-playbook-skill) - Bilingual Agent Skill for startup idea validation, MVP scoping, PMF diagnostics, launch operations, GTM planning, and founder workflows.
+
+### Development & Code Tools
+
+- [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - Chinese Claude Code Skill and project rules for keeping coding-agent behavior simple, scoped, and verifiable.
+
+### Productivity & Organization
+
+- [Skill Usage](https://github.com/MackDing/skill-usage) - Real-time dashboard for monitoring Claude Code and other JSONL-based agent skill calls, latency, failures, and idle or redundant skills.
+
 Suggested naming convention:
 - Skill folder: `snake_case` (example: `pdf_to_markdown_converter`)
 - YAML `name`: `kebab-case` (example: `pdf-to-markdown-converter`)
