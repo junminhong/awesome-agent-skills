@@ -118,7 +118,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：資料庫查詢、數據清理、格式轉換、統計分析、報表生成
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [unifapi](https://github.com/unifapi-agent/skills/tree/main/skills/unifapi)：連接 UnifAPI 公共數據 MCP 和 API 工作流程，支援社交、搜尋、抓取、新聞與創作者研究資料。
 
 ---
 
@@ -128,7 +128,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：品牌指南執行、競爭對手研究、內容策略、域名創意發想、內部公告
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [kol-pricing](https://github.com/unifapi-agent/skills/tree/main/skills/kol-pricing)：使用 UnifAPI MCP 的公開社交資料，評估創作者與網紅合作報價。
 
 ---
 

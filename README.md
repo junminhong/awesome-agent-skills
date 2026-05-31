@@ -118,7 +118,7 @@ Skills for working with databases, CSV/JSON files, data transformation, analysis
 
 **Common use cases**: Database queries, data cleaning, format conversion, statistical analysis, report generation
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [unifapi](https://github.com/unifapi-agent/skills/tree/main/skills/unifapi) - Connect agents to UnifAPI public-data MCP and API workflows for social, search, scrape, news, and creator research data.
 
 ---
 
@@ -128,7 +128,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 **Common use cases**: Brand guidelines enforcement, competitor research, content strategy, domain name ideation, internal announcements
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [kol-pricing](https://github.com/unifapi-agent/skills/tree/main/skills/kol-pricing) - Price creator and influencer campaigns using public social data from UnifAPI MCP workflows.
 
 ---
 
