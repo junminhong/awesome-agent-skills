@@ -128,7 +128,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 **Common use cases**: Brand guidelines enforcement, competitor research, content strategy, domain name ideation, internal announcements
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [gtm-skills](https://github.com/LeadMagic/gtm-skills/) - 189+ open-source GTM playbooks for AI agents across marketing, sales, customer success, and revenue operations across 26 categories. Compatible with Claude Code, Codex, Cursor, GitHub Copilot, and 12+ agent platforms.
 
 ---
 
