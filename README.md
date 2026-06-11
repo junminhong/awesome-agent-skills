@@ -148,7 +148,7 @@ Skills for image generation, video processing, GIF creation, design work, and vi
 
 **Common use cases**: Image enhancement, video downloading, animation creation, visual design, media optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) - Run AI image, video, music/audio, and LLM model jobs from agent workflows through RunAPI.
 
 ---
 
