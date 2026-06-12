@@ -118,7 +118,7 @@ Skills for working with databases, CSV/JSON files, data transformation, analysis
 
 **Common use cases**: Database queries, data cleaning, format conversion, statistical analysis, report generation
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) - Credit risk modeling, validation reports, and strategy analysis.
 
 ---
 
