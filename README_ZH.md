@@ -168,7 +168,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：版本控制自動化、Pull Request 管理、程式碼審查、團隊同步、專案規劃
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow)：從本機 ax 會話證據重建功能或成果的交付過程，包含對話、工具、技能、提交與後續行動。
 
 ---
 
