@@ -108,7 +108,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [agent-skill-groups](skills/claude_code/development_code_tools/agent_skill_groups/) - Runtime-aware scenario groups and profile switching for large local Agent Skills libraries.
 
 ---
 

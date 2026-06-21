@@ -47,6 +47,12 @@ Suggested naming convention:
 - Skill folder: `snake_case` (example: `pdf_to_markdown_converter`)
 - YAML `name`: `kebab-case` (example: `pdf-to-markdown-converter`)
 
+## Skills
+
+### Development & Code Tools
+
+- [agent-skill-groups](development_code_tools/agent_skill_groups/) - Runtime-aware scenario groups and profile switching for large local Agent Skills libraries.
+
 ## Installing Into Claude Code
 
 Common locations (may vary by OS/version; adjust to your Claude Code setup):
