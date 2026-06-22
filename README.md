@@ -158,7 +158,7 @@ Skills for file organization, task management, workflow automation, and producti
 
 **Common use cases**: File system organization, invoice processing, task tracking, automation setup, workflow optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [agent-skill-groups](https://github.com/go165/agent-skill-groups) - Scenario-profile manager for local Agent Skills. Switch Codex, Claude Code, OpenCode, and generic `SKILL.md` folders between lean core and task-specific groups with JSON status, backups, and memory snippets.
 
 ---
 

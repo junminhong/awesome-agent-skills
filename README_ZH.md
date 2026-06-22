@@ -158,7 +158,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：檔案系統組織、發票處理、任務追蹤、自動化設定、工作流程最佳化
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [agent-skill-groups](https://github.com/go165/agent-skill-groups)：本機 Agent Skills 場景 profile 管理器。可在 Codex、Claude Code、OpenCode 和通用 `SKILL.md` 目錄之間切換精簡 core 與任務專用分組，並提供 JSON 狀態、備份和記憶片段。
 
 ---
 
