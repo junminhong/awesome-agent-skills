@@ -132,6 +132,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 ---
 
+- [linkedin](skills/claude_code/business_marketing/linkedin/) - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 ### Communication & Writing
 
 Skills for content writing, editing, meeting analysis, article extraction, research assistance, and communication optimization.
