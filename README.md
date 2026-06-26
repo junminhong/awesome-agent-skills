@@ -132,6 +132,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 ---
 
+- [linkedin-growth](skills/claude_code/business_marketing/linkedin-growth/) - Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests.
 ### Communication & Writing
 
 Skills for content writing, editing, meeting analysis, article extraction, research assistance, and communication optimization.
