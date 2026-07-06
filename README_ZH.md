@@ -108,7 +108,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：程式碼重構、測試生成、除錯輔助、程式碼審查自動化、網頁測試、建構最佳化
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [routerbase-agent-skills](https://github.com/zenlee123/routerbase-agent-skills) - 使用 [routerbase](https://routerbase.com/) 作為 OpenAI 相容網關，處理 API 整合、模型路由和媒體生成工作流程。
 
 ---
 
