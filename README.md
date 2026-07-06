@@ -108,7 +108,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [routerbase-agent-skills](https://github.com/zenlee123/routerbase-agent-skills) - Use [routerbase](https://routerbase.com/) as an OpenAI-compatible gateway for API integration, model routing, and media generation workflows.
 
 ---
 
