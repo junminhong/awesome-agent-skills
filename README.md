@@ -108,7 +108,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [tree-ring-memory](https://github.com/TerminallyLazy/Tree-Ring-Memory/tree/main/skills/tree-ring-memory) - Local-first agent memory lifecycle skill for durable recall, forgetting, audit, evidence capture, and Rust CLI usage.
 
 ---
 
