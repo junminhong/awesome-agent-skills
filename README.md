@@ -78,7 +78,7 @@ A curated list of agent skills, resources, and tools for building customizable A
 
 ## What is a Skill?
 
-A **skill** is a reusable workflow unit for an AI agent—typically a combination of:
+A **skill** is a reusable workflow unit for an AI agent, typically a combination of:
 
 - **Clear objective**: What success looks like and how to measure it
 - **Input/output schema**: Well-defined data structures and formats
@@ -119,6 +119,8 @@ Skills for working with databases, CSV/JSON files, data transformation, analysis
 **Common use cases**: Database queries, data cleaning, format conversion, statistical analysis, report generation
 
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) - Credit risk modeling, validation reports, and strategy analysis.
+- [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for supervised X research, publishing, media, follower exports, giveaways, and monitoring workflows.
+- [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X data platform with REST, webhooks, MCP, and SDK workflows for agents.
 
 ---
 
@@ -547,10 +549,10 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 - [Codex Skills Guide](https://developers.openai.com/codex/skills) - Official Codex Skills documentation
 - [Creating Codex Skills](https://developers.openai.com/codex/skills/create-skill) - Guide for creating Codex Skills
-- [Claude Agent Skills Overview](https://platform.claude.com/docs/zh-TW/agents-and-tools/agent-skills/overview) - Complete guide to Agent Skills
-- [Claude Skills Quickstart](https://platform.claude.com/docs/zh-TW/agents-and-tools/agent-skills/quickstart) - Getting started with Skills
-- [Claude Skills Best Practices](https://platform.claude.com/docs/zh-TW/agents-and-tools/agent-skills/best-practices) - Writing effective Skills
-- [Claude Skills API Guide](https://platform.claude.com/docs/zh-TW/build-with-claude/skills-guide) - Using Skills with Claude API
+- [Claude Agent Skills Overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) - Complete guide to Agent Skills
+- [Claude Skills Quickstart](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/quickstart) - Getting started with Skills
+- [Claude Skills Best Practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Writing effective Skills
+- [Claude Skills API Guide](https://platform.claude.com/docs/en/build-with-claude/skills-guide) - Using Skills with Claude API
 
 ---
 

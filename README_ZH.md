@@ -119,6 +119,8 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 **常見使用場景**：資料庫查詢、數據清理、格式轉換、統計分析、報表生成
 
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) - 信用風險建模、驗證報告與策略分析。
+- [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - 用於 X 研究、發佈、媒體、粉絲匯出、抽獎與監控工作流程的 OpenClaw 外掛。
+- [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - 為 Agent 提供 REST、webhooks、MCP 與 SDK 工作流程的 X 數據平台。
 
 ---
 
