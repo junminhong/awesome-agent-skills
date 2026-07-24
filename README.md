@@ -158,7 +158,7 @@ Skills for file organization, task management, workflow automation, and producti
 
 **Common use cases**: File system organization, invoice processing, task tracking, automation setup, workflow optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Indexed knowledge bases with command-line tools for agents.
 
 ---
 

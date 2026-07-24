@@ -158,7 +158,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：檔案系統組織、發票處理、任務追蹤、自動化設定、工作流程最佳化
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - 為 Agent 提供具索引的知識庫與命令列工具。
 
 ---
 
