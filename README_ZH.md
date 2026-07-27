@@ -138,7 +138,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：內容草擬、研究綜合、會議洞察、寫作改進、引用管理
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) - 規劃、撰寫、研究、編輯與審閱文章，同時保留作者語氣與證據，並在不判定作者身分的前提下分析可能的 AI 寫作訊號。
 
 ---
 

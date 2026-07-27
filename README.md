@@ -138,7 +138,7 @@ Skills for content writing, editing, meeting analysis, article extraction, resea
 
 **Common use cases**: Content drafting, research synthesis, meeting insights, writing improvement, citation management
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) - Plans, drafts, researches, edits, and reviews essays while preserving voice and evidence; also reports probable AI-writing signals without claiming authorship.
 
 ---
 
