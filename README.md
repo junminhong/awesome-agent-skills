@@ -168,7 +168,7 @@ Skills for Git workflows, code review processes, team coordination, and project 
 
 **Common use cases**: Version control automation, pull request management, code review, team synchronization, project planning
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) - Reconstructs how a feature or artifact was shipped from local ax session evidence, including turns, tools, skills, commits, and follow-up actions.
 
 ---
 
