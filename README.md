@@ -109,6 +109,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
 - [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - Stops Codex, Claude Code, Cursor, and compatible coding agents from shipping generic UI. Uses UIZZE's free catalogue of 800,000+ real web and iOS screens to create a product-specific design contract and enforce a pre-ship finish gate. Full MCP at [uizze.com](https://uizze.com).
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) - A 67-skill, MIT-licensed toolkit for Claude Code and Codex covering agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows.
 
 ---
 

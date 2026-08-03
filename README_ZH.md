@@ -109,6 +109,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 **常見使用場景**：程式碼重構、測試生成、除錯輔助、程式碼審查自動化、網頁測試、建構最佳化
 
 - [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - 防止 Codex、Claude Code、Cursor 與相容的程式設計 Agent 產出千篇一律的 UI。透過 UIZZE 免費的 800,000+ 真實 Web 與 iOS 畫面目錄建立產品專屬設計規格，並在發布前執行完成度檢查；完整 MCP 請見 [uizze.com](https://uizze.com)。
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) - 面向 Claude Code 與 Codex 的 67 個 MIT 授權 Skills，涵蓋多 Agent 編排、Codex 工作節點集群、程式碼審查與發布門檻、AI 評測、產品、設計和成長工作流程。
 
 ---
 
