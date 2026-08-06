@@ -109,6 +109,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 **常見使用場景**：程式碼重構、測試生成、除錯輔助、程式碼審查自動化、網頁測試、建構最佳化
 
 - [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - 面向中文開發者的 Claude Code / Codex / Cursor agent rules，將 Karpathy 風格的編碼原則整理成可復用的 `CLAUDE.md`、`AGENTS.md`、Cursor Rules 和 Claude Code Skill。
+- [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - 防止 Codex、Claude Code、Cursor 與相容的程式設計 Agent 產出千篇一律的 UI。透過 UIZZE 免費的 800,000+ 真實 Web 與 iOS 畫面目錄建立產品專屬設計規格，並在發布前執行完成度檢查；完整 MCP 請見 [uizze.com](https://uizze.com)。
 
 ---
 
@@ -118,7 +119,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：資料庫查詢、數據清理、格式轉換、統計分析、報表生成
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) - 信用風險建模、驗證報告與策略分析。
 
 ---
 
@@ -148,7 +149,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：圖像增強、影片下載、動畫創建、視覺設計、媒體最佳化
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill)：透過 RunAPI 在 Agent 工作流程中執行 AI 圖像、影片、音樂/音訊和 LLM 模型任務。
 
 ---
 
@@ -159,6 +160,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 **常見使用場景**：檔案系統組織、發票處理、任務追蹤、自動化設定、工作流程最佳化
 
 - [Skill Usage](https://github.com/MackDing/skill-usage) - 零依賴即時儀表板，用於監控 OpenClaw、Hermes-Agent、Claude Code 和 Codex 的 skill calls、延遲、失敗率，以及冗餘或閒置技能。
+- [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - 為 Agent 提供具索引的知識庫與命令列工具。
 
 ---
 

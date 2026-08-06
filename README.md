@@ -109,6 +109,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
 - [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - Chinese Claude Code / Codex / Cursor agent rules that turn Karpathy-inspired coding principles into reusable `CLAUDE.md`, `AGENTS.md`, Cursor Rules, and Claude Code Skill formats.
+- [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - Stops Codex, Claude Code, Cursor, and compatible coding agents from shipping generic UI. Uses UIZZE's free catalogue of 800,000+ real web and iOS screens to create a product-specific design contract and enforce a pre-ship finish gate. Full MCP at [uizze.com](https://uizze.com).
 
 ---
 
@@ -118,7 +119,7 @@ Skills for working with databases, CSV/JSON files, data transformation, analysis
 
 **Common use cases**: Database queries, data cleaning, format conversion, statistical analysis, report generation
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) - Credit risk modeling, validation reports, and strategy analysis.
 
 ---
 
@@ -148,7 +149,7 @@ Skills for image generation, video processing, GIF creation, design work, and vi
 
 **Common use cases**: Image enhancement, video downloading, animation creation, visual design, media optimization
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) - Run AI image, video, music/audio, and LLM model jobs from agent workflows through RunAPI.
 
 ---
 
@@ -159,6 +160,7 @@ Skills for file organization, task management, workflow automation, and producti
 **Common use cases**: File system organization, invoice processing, task tracking, automation setup, workflow optimization
 
 - [Skill Usage](https://github.com/MackDing/skill-usage) - Zero-dependency real-time dashboard for monitoring OpenClaw, Hermes-Agent, Claude Code, and Codex skill calls, latency, failures, and redundant or idle skills.
+- [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Indexed knowledge bases with command-line tools for agents.
 
 ---
 
