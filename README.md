@@ -131,7 +131,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 **Common use cases**: Brand guidelines enforcement, competitor research, content strategy, domain name ideation, internal announcements
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [Before You Build Skill](https://github.com/bin1874/before-you-build-skill) - Reviews product and feature risk before AI coding agents start implementation.
 
 ---
 

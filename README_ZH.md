@@ -131,7 +131,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：品牌指南執行、競爭對手研究、內容策略、域名創意發想、內部公告
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [Before You Build Skill](https://github.com/bin1874/before-you-build-skill)：在 AI coding agent 開始實作前，檢查產品與功能風險。
 
 ---
 
