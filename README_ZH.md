@@ -108,6 +108,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：程式碼重構、測試生成、除錯輔助、程式碼審查自動化、網頁測試、建構最佳化
 
+- [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - 面向中文開發者的 Claude Code / Codex / Cursor agent rules，將 Karpathy 風格的編碼原則整理成可復用的 `CLAUDE.md`、`AGENTS.md`、Cursor Rules 和 Claude Code Skill。
 - [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - 防止 Codex、Claude Code、Cursor 與相容的程式設計 Agent 產出千篇一律的 UI。透過 UIZZE 免費的 800,000+ 真實 Web 與 iOS 畫面目錄建立產品專屬設計規格，並在發布前執行完成度檢查；完整 MCP 請見 [uizze.com](https://uizze.com)。
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) - 面向 Claude Code 與 Codex 的 67 個 MIT 授權 Skills，涵蓋多 Agent 編排、Codex 工作節點集群、程式碼審查與發布門檻、AI 評測、產品、設計和成長工作流程。
 
@@ -131,7 +132,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：品牌指南執行、競爭對手研究、內容策略、域名創意發想、內部公告
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [AI-Native Founder Playbook](https://github.com/MackDing/ai-native-founder-playbook-skill) - 雙語、供應商中立的 Agent Skill，用於創業想法驗證、客戶探索、MVP 範圍、PMF 診斷、Launch 運營、GTM 規劃和 AI-native founder workflows。
 
 ---
 
@@ -161,6 +162,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：檔案系統組織、發票處理、任務追蹤、自動化設定、工作流程最佳化
 
+- [Skill Usage](https://github.com/MackDing/skill-usage) - 零依賴即時儀表板，用於監控 OpenClaw、Hermes-Agent、Claude Code 和 Codex 的 skill calls、延遲、失敗率，以及冗餘或閒置技能。
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - 為 Agent 提供具索引的知識庫與命令列工具。
 
 ---

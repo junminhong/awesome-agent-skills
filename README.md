@@ -108,6 +108,7 @@ Skills focused on programming, testing, debugging, code review, browser automati
 
 **Common use cases**: Code refactoring, test generation, debugging assistance, code review automation, web testing, build optimization
 
+- [Andrej Karpathy Coding Guidelines ZH](https://github.com/MackDing/andrej-karpathy-skills-zh) - Chinese Claude Code / Codex / Cursor agent rules that turn Karpathy-inspired coding principles into reusable `CLAUDE.md`, `AGENTS.md`, Cursor Rules, and Claude Code Skill formats.
 - [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - Stops Codex, Claude Code, Cursor, and compatible coding agents from shipping generic UI. Uses UIZZE's free catalogue of 800,000+ real web and iOS screens to create a product-specific design contract and enforce a pre-ship finish gate. Full MCP at [uizze.com](https://uizze.com).
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) - A 67-skill, MIT-licensed toolkit for Claude Code and Codex covering agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows.
 
@@ -131,7 +132,7 @@ Skills for brand management, competitive analysis, domain research, internal com
 
 **Common use cases**: Brand guidelines enforcement, competitor research, content strategy, domain name ideation, internal announcements
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [AI-Native Founder Playbook](https://github.com/MackDing/ai-native-founder-playbook-skill) - Bilingual, vendor-neutral Agent Skill for startup idea validation, customer discovery, MVP scoping, PMF diagnostics, launch operations, GTM planning, and AI-native founder workflows.
 
 ---
 
@@ -161,6 +162,7 @@ Skills for file organization, task management, workflow automation, and producti
 
 **Common use cases**: File system organization, invoice processing, task tracking, automation setup, workflow optimization
 
+- [Skill Usage](https://github.com/MackDing/skill-usage) - Zero-dependency real-time dashboard for monitoring OpenClaw, Hermes-Agent, Claude Code, and Codex skill calls, latency, failures, and redundant or idle skills.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Indexed knowledge bases with command-line tools for agents.
 
 ---
