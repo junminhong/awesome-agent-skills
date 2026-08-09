@@ -151,6 +151,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：圖像增強、影片下載、動畫創建、視覺設計、媒體最佳化
 
+- [OratorDeck](https://github.com/yuminhhuang/OratorDeck/tree/main/skills/oratordeck)：以 Prompt-as-Slide 工作流程，從每頁一份權威 Markdown prompt 產生相互一致的投影片圖片與同步講稿，並提供可重現的資產稽核及可選的旁白影片流程銜接。
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill)：透過 RunAPI 在 Agent 工作流程中執行 AI 圖像、影片、音樂/音訊和 LLM 模型任務。
 
 ---

@@ -151,6 +151,7 @@ Skills for image generation, video processing, GIF creation, design work, and vi
 
 **Common use cases**: Image enhancement, video downloading, animation creation, visual design, media optimization
 
+- [OratorDeck](https://github.com/yuminhhuang/OratorDeck/tree/main/skills/oratordeck) - Prompt-as-Slide authoring workflow for generating aligned slide images and synchronized speaker notes, with reproducible asset audits and an optional handoff to a narrated-video pipeline.
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) - Run AI image, video, music/audio, and LLM model jobs from agent workflows through RunAPI.
 
 ---
