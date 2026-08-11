@@ -181,7 +181,7 @@ Skill 讓 AI Agent 能夠在不同平台和情境中，一致且可靠地執行�
 
 **常見使用場景**：鑑識調查、安全稽核、威脅偵測、系統分析、事件回應
 
-- TBD：此分類技能清單（貢獻者可在此新增條目）
+- [RouteWarden Security Audit](https://github.com/elicosilva/RouteWarden) - Express、NestJS 與 Next.js 路由 diff 感知安全稽核，自動偵測未授權存取 (CWE-306) 與敏感資料外洩 (CWE-200)。
 
 ---
 
