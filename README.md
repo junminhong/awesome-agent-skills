@@ -181,7 +181,7 @@ Skills for digital forensics, threat hunting, security analysis, and system admi
 
 **Common use cases**: Forensic investigation, security auditing, threat detection, system analysis, incident response
 
-- TBD: Skill list for this category (contributors can add entries here)
+- [RouteWarden Security Audit](https://github.com/elicosilva/RouteWarden) - Diff-aware security auditing for Express, NestJS, and Next.js routes, detecting missing authentication (CWE-306) and sensitive response leakage (CWE-200).
 
 ---
 
