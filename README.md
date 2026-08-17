@@ -63,6 +63,7 @@ This repository is not a package registry, a host for community skill files, a s
 ### Skill Collections
 
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Turns authorized application source code into runnable Function, MCP tool, workflow Skill, and offline-test packages, with separate flow and source review skills. `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — Routes coding agents through 14 skills for planning, composing, editing, generating, and assembling videos. `Type: Collection` · `Platforms: Codex, Claude Code`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — A multi-domain collection covering agent orchestration, code review, evaluation, product, design, and growth workflows. `Type: Collection` · `Platforms: Cross-platform`
 
 ### Tooling & Integrations
