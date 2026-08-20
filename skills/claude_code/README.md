@@ -38,10 +38,16 @@ skills/claude_code/
 ├── creative_media/
 ├── data_analysis/
 ├── development_code_tools/
+│   └── overhaul_ui/
 ├── document_processing/
 ├── productivity_organization/
 └── security_systems/
 ```
+
+## Available Skills Index
+
+### Development & Code Tools
+- [overhaul-ui](./development_code_tools/overhaul_ui/SKILL.md) - Frontend design skill with 28 commands and 7 offline WCAG/OKLCH/slop-detection scripts; detects and defers to specialist design skills already installed.
 
 Suggested naming convention:
 - Skill folder: `snake_case` (example: `pdf_to_markdown_converter`)
