@@ -46,6 +46,7 @@
 #### 數據與分析
 
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — 引導信用風險模型開發、驗證、報告與策略分析。 `Type: Skill` · `Platforms: Cross-platform`
+- [KnowSift](https://github.com/nhppyqys/knowsift) — 將混合研究來源編譯為由證書約束的分層知識文件，保留證據、適用範圍、觀點、爭議與被排除主張。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — 透過 REST、MCP、SDK 或 webhook 工作流程處理 X 研究、資料擷取、監測與需確認的發布操作。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 溝通與寫作
