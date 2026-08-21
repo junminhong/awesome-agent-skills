@@ -46,6 +46,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Data & Analysis
 
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — Guides credit-risk model development, validation, reporting, and strategy analysis. `Type: Skill` · `Platforms: Cross-platform`
+- [KnowSift](https://github.com/nhppyqys/knowsift) — Compiles mixed research sources into certificate-backed knowledge documents that preserve evidence, scope, viewpoints, disputes, and rejected claims. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — Routes X research, extraction, monitoring, and confirmation-gated publishing through REST, MCP, SDK, or webhook workflows. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Communication & Writing
