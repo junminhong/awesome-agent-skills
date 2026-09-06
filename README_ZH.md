@@ -64,6 +64,7 @@
 
 ### Skill Collections
 
+- [BulkPublish Social Media Content Skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — 提供 24 個 Skill，讓 AI Agent 透過 BulkPublish 規劃、改編、審閱、排程及發布社群媒體內容。 `Type: Collection` · `Platforms: Codex, Claude Code, Agent Skills-compatible agents`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
