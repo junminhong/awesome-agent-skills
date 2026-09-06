@@ -55,7 +55,8 @@
 
 #### 創意與媒體
 
-- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
+- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill)
+- [agentbody-x-research](https://github.com/agentbody/skills/tree/main/skills/x-research) — 透過 AgentBody API 進行只讀 X/Twitter 搜索、趨勢、主頁、媒體和回覆。`Type: Skill` · `Platforms: Cross-platform` — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 生產力與組織
 

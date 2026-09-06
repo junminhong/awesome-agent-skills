@@ -55,7 +55,8 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Creative & Media
 
-- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — Teaches agents to run image, video, audio, and language-model jobs through the RunAPI CLI. `Type: Skill` · `Platforms: Cross-platform`
+- [runapi-cli-skill](https://github.com/runapi-ai/cli-skill)
+- [agentbody-x-research](https://github.com/agentbody/skills/tree/main/skills/x-research) — Read-only X/Twitter search, trends, profile inspection, media, and replies via AgentBody API. `Type: Skill` · `Platforms: Cross-platform` — Teaches agents to run image, video, audio, and language-model jobs through the RunAPI CLI. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Productivity & Organization
 
