@@ -41,6 +41,7 @@
 
 #### 開發與程式工具
 
+- [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 數據與分析

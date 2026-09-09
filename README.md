@@ -41,6 +41,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Development & Code
 
+- [ManualMode](https://github.com/itscloud0/manualmode-skill) — Reserves bounded tasks from real project work for manual coding practice and reports verification metadata to ManualMode. `Type: Skill` · `Platforms: Cross-platform`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Data & Analysis
