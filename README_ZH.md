@@ -41,6 +41,7 @@
 
 #### 開發與程式工具
 
+- [agent-architecture](https://github.com/Crabbb/agent-architecture) — 引導 Agent 架構需求探索與實證診斷，產出需求、能力方法、工具與狀態契約、架構圖及驗收準則。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 數據與分析
