@@ -65,6 +65,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 ### Skill Collections
 
+- [BulkPublish Social Media Content Skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — Provides 24 skills for AI agents to plan, adapt, review, schedule, and publish social media content through BulkPublish. `Type: Collection` · `Platforms: Codex, Claude Code, Agent Skills-compatible agents`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Turns authorized application source code into runnable Function, MCP tool, workflow Skill, and offline-test packages, with separate flow and source review skills. `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — Guides agents through content-creator workflows for YouTube scripting, thumbnail concepts, SEO, and audience personas. `Type: Collection` · `Platforms: Cross-platform`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — Guides agents through SEO, GEO, paid-media, and analytics workflows using live marketing data and approval-gated changes. `Type: Collection` · `Platforms: Cross-platform`

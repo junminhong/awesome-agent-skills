@@ -65,6 +65,7 @@
 
 ### Skill Collections
 
+- [BulkPublish Social Media Content Skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — 提供 24 個 Skill，讓 AI Agent 透過 BulkPublish 規劃、改編、審閱、排程及發布社群媒體內容。 `Type: Collection` · `Platforms: Codex, Claude Code, Agent Skills-compatible agents`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
