@@ -41,6 +41,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Development & Code
 
+- [agent-architecture](https://github.com/Crabbb/agent-architecture) — Guides agent architecture discovery and evidence-based diagnosis, producing requirements, capability methods, tool and state contracts, diagrams, and acceptance criteria. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Data & Analysis
