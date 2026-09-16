@@ -64,6 +64,7 @@
 #### 生產力與組織
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — 將複雜工作編排為可續接的本機相依圖，聲明寫入範圍，先核對結果不明的作業再重試，並於結案時重跑檢查。 `Type: Skill` · `Platforms: Codex`
+- [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) — 以已驗證履歷事實、作業系統層級的本機設定檔儲存，以及「確認送出後才入帳」的本地帳本，協助候選人自行發現、篩選、填寫並追蹤求職申請。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
