@@ -42,6 +42,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Development & Code
 
 - [agent-architecture](https://github.com/Crabbb/agent-architecture) — Guides agent architecture discovery and evidence-based diagnosis, producing requirements, capability methods, tool and state contracts, diagrams, and acceptance criteria. `Type: Skill` · `Platforms: Codex, Claude Code`
+- [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — Preserves project decisions, reconciles affected documents, and prepares session handoffs with explicit delivery evidence. `Type: Skill` · `Platforms: Codex, GitHub Copilot`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — Reserves bounded tasks from real project work for manual coding practice and reports verification metadata to ManualMode. `Type: Skill` · `Platforms: Cross-platform`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
 
