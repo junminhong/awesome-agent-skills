@@ -68,6 +68,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 ### Skill Collections
 
+- [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — Equips coding assistants with a reusable catalog of Agent Skills, personas, MCP templates, and multi-agent loop and swarm workflows. `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Turns authorized application source code into runnable Function, MCP tool, workflow Skill, and offline-test packages, with separate flow and source review skills. `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — Guides agents through content-creator workflows for YouTube scripting, thumbnail concepts, SEO, and audience personas. `Type: Collection` · `Platforms: Cross-platform`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — Guides agents through SEO, GEO, paid-media, and analytics workflows using live marketing data and approval-gated changes. `Type: Collection` · `Platforms: Cross-platform`
