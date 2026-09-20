@@ -65,6 +65,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Productivity & Organization
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — Coordinates complex work through a resumable local dependency graph, declared write scopes, reconciliation before retries, and repeatable closeout checks. `Type: Skill` · `Platforms: Codex`
+- [GFT Map](https://github.com/CoralLips/gft-map) — Turns linked Agent conversations into local, editable Doc and Map context that people can correct and later Agents can read. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
