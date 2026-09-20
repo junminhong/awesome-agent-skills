@@ -65,6 +65,7 @@
 #### 生產力與組織
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — 將複雜工作編排為可續接的本機相依圖，聲明寫入範圍，先核對結果不明的作業再重試，並於結案時重跑檢查。 `Type: Skill` · `Platforms: Codex`
+- [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
