@@ -57,6 +57,7 @@
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — 規劃、起草、研究、編修與審閱文章，同時保留作者語氣、證據與不確定性。 `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — 指導小說規劃、起草與修訂，檢查人物視角、場景因果、對白及作者文風的保留。 `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — 提供社群貼文的多個切入角度供選擇，撰寫選定的那一個，並可透過 Publora 排程發布。 `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
+- [reddit-rules-first](https://github.com/amflimited/threadfox-lite/tree/main/skills/reddit-rules-first) — 讓 Agent 以社群能接受的方式在 Reddit 發文：先讀取每個子版塊的規則，每個社群只發一篇新寫的貼文，揭露從屬關係，並檢查每篇貼文是否仍在。`Type: Skill` · `Platforms: Cross-platform`
 
 #### 創意與媒體
 
