@@ -57,6 +57,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — Plans, drafts, researches, edits, and reviews essays while preserving voice, evidence, and uncertainty. `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — Guides fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks. `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — Offers a choice of angles for a social post, drafts the selected one, and can schedule it through Publora. `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
+- [reddit-rules-first](https://github.com/amflimited/threadfox-lite/tree/main/skills/reddit-rules-first) — Lets an Agent post to Reddit the way communities accept it: read each subreddit's rules first, write one fresh post per community, disclose affiliation, and check whether each post stayed up. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Creative & Media
 
