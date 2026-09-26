@@ -55,6 +55,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Communication & Writing
 
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — Plans, drafts, researches, edits, and reviews essays while preserving voice, evidence, and uncertainty. `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
+- [humanizer-zh-next](https://github.com/Hyacehila/humanizer-zh-next) — Guides agents to edit and review Chinese text while preserving facts, author voice, and academic evidence boundaries. `Type: Skill` · `Platforms: Agent Skills-compatible agents`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — Guides fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks. `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — Offers a choice of angles for a social post, drafts the selected one, and can schedule it through Publora. `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
 
