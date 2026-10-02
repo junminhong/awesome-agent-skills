@@ -77,6 +77,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — Guides agents through UI and typography audits, code review, documentation, PR maintenance, and npm releases with 27 skills. `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — Guides agents through SEO, GEO, paid-media, and analytics workflows using live marketing data and approval-gated changes. `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — Routes coding agents through 14 skills for planning, composing, editing, generating, and assembling videos. `Type: Collection` · `Platforms: Codex, Claude Code`
+- [shre-skills](https://github.com/shreyam1008/shre-skills) — Web development skills covering Chrome/React debugging, performance, accessibility, caching, and GPU/WASM rendering. `Type: Collection` · `Platforms: Codex`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — Guides agents through software design, implementation, release checks, and documentation workflows. `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — A multi-domain collection covering agent orchestration, code review, evaluation, product, design, and growth workflows. `Type: Collection` · `Platforms: Cross-platform`
 
