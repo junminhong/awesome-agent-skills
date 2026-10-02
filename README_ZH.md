@@ -72,6 +72,7 @@
 ### Skill Collections
 
 - [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — 為程式設計助理提供可重複使用的 Agent Skills 目錄、角色、MCP 範本，以及多代理迴圈與群組工作流程。 `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
+- [agent-skills-en](https://github.com/alapha888/agent-skills-en) — 提供英文生產力技能，用於校對技術寫作、撰寫 Conventional Commit 訊息、將會議筆記整理為結構化會議紀錄、審查程式碼，以及規劃深度研究。 `Type: Collection` · `Platforms: Cross-platform`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
