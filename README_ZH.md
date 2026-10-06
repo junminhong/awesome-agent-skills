@@ -43,6 +43,7 @@
 
 - [agent-architecture](https://github.com/Crabbb/agent-architecture) — 引導 Agent 架構需求探索與實證診斷，產出需求、能力方法、工具與狀態契約、架構圖及驗收準則。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — 保存專案決策、同步受影響文件，並附上明確的交付證據以準備工作階段交接。 `Type: Skill` · `Platforms: Codex, GitHub Copilot`
+- [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — 將 Dockerfile、原始碼資料夾或容器映像部署到 Cloudish 並回報上線網址，使用 Agent 自行建立的 API 金鑰。 `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
 
