@@ -45,6 +45,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — Preserves project decisions, reconciles affected documents, and prepares session handoffs with explicit delivery evidence. `Type: Skill` · `Platforms: Codex, GitHub Copilot`
 - [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — Deploys a Dockerfile, source folder, or container image to Cloudish and reports the live URL, using an API key the agent creates for itself. `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — Reserves bounded tasks from real project work for manual coding practice and reports verification metadata to ManualMode. `Type: Skill` · `Platforms: Cross-platform`
+- [tastegate](https://github.com/stas4000/tastegate) — Sets a design direction for a page, then renders it in headless Chromium at mobile and desktop widths and fails the run on contrast, overlap, and layout rules the model cannot see in its own CSS. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Data & Analysis
