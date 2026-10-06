@@ -47,6 +47,7 @@
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
 - [Openhook](https://github.com/openhook-dev/openhook-inbox/tree/main/skills/openhook) — 透過 MCP 或 REST 建立 webhook 收件匣、檢查回呼，並將事件轉送至本機處理程式。 `Type: Skill` · `Platforms: Cross-platform`
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) — 透過 REA 證據分析已發布的二進位與 JavaScript/Electron 應用；原生深度分析需另行安裝 Hopper、Ghidra 或 IDA。 `Type: Skill` · `Platforms: Codex`
+- [tastegate](https://github.com/stas4000/tastegate) — 先為頁面定下設計方向，再以 headless Chromium 在手機與桌面寬度實際渲染，並依對比、重疊與版面規則攔下模型在自己 CSS 中看不見的缺陷。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 數據與分析
