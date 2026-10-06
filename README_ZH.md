@@ -46,6 +46,7 @@
 - [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — 將 Dockerfile、原始碼資料夾或容器映像部署到 Cloudish 並回報上線網址，使用 Agent 自行建立的 API 金鑰。 `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
+- [what-could-break](https://github.com/stas4000/what-could-break) — 追蹤未提交的變更在自身 diff 之外可能破壞的範圍，並要求實際執行程式碼來証明安全結論，而非只描述風險。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 #### 數據與分析
 
