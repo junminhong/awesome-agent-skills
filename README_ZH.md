@@ -79,6 +79,7 @@
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
+- [shre-skills](https://github.com/shreyam1008/shre-skills) — 涵蓋 Chrome/React 除錯、效能、無障礙、快取及 GPU/WASM 繪圖的網頁開發技能。 `Type: Collection` · `Platforms: Codex`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 涵蓋 Agent 編排、程式碼審查、評估、產品、設計與成長工作流程的多領域集合。 `Type: Collection` · `Platforms: Cross-platform`
 
