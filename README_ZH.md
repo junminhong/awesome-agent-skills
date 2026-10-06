@@ -81,6 +81,7 @@
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 涵蓋 Agent 編排、程式碼審查、評估、產品、設計與成長工作流程的多領域集合。 `Type: Collection` · `Platforms: Cross-platform`
+- [YYLO Skills](https://github.com/yylo-dev/yylo-skills) — 為 Agent 提供工作流程技能，涵蓋看板任務管理、專案規劃與探索、成果保存、wiki 知識庫，以及 YYLO CLI、Ledger 與 Benchmark 所用的基準測試流程。 `Type: Collection` · `Platforms: Claude Code, Codex, Pi`
 
 ### Tooling & Integrations
 
