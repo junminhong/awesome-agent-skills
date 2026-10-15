@@ -48,6 +48,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [Openhook](https://github.com/openhook-dev/openhook-inbox/tree/main/skills/openhook) — Creates webhook inboxes, inspects callbacks, and forwards events to local handlers through MCP or REST. `Type: Skill` · `Platforms: Cross-platform`
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) — Inspect shipped binaries and JavaScript/Electron apps with REA evidence; deep native analysis requires separately installed Hopper, Ghidra, or IDA. `Type: Skill` · `Platforms: Codex`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
+- [what-could-break](https://github.com/stas4000/what-could-break) — Traces what an uncommitted change can break outside its own diff and requires running real code to prove the safety claim instead of describing the risk. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 #### Data & Analysis
 
