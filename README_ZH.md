@@ -79,6 +79,7 @@
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
+- [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) — 引導 Agent 透過已授權的 Fillfolio MCP 連線，執行唯讀投資組合、現金、支出及預算檢視。 `Type: Collection` · `Platforms: Codex`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
