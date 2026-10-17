@@ -94,6 +94,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [SandBase](https://github.com/sandbaseai/cli) — Connects AI agents to unified model and tool APIs through a local CLI-managed MCP bridge and Agent Skill. `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — Inspects third-party Agent Skills before installation and surfaces static risk findings, token estimates, and quality scores for agent-assisted review. `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — Provides supervised X research, publishing, media, follower export, giveaway, and monitoring workflows. `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
+- [UNSLOP](https://github.com/0design/unslop-skill) — Audits generated UI against design-system contracts and pinned rules, then writes fix plans using the full plugin setup ([website](https://oleg.design/unslop)). `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 
 ## Using a Listed Project
 

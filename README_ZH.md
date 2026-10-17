@@ -94,6 +94,7 @@
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
+- [UNSLOP](https://github.com/0design/unslop-skill) — 使用完整外掛設定，依設計系統契約與固定版本規則稽核生成的 UI，並撰寫修正計畫（[網站](https://oleg.design/unslop)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 
 ## 使用收錄專案
 
