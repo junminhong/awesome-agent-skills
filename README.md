@@ -72,6 +72,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — Coordinates complex work through a resumable local dependency graph, declared write scopes, reconciliation before retries, and repeatable closeout checks. `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
+- [Yumi Decision Ledger](https://github.com/noqt/yumi-decision-ledger) — Reconciles supplied decision and revision ledgers and checks agent handoff cards against updated records. `Type: Skill` · `Platforms: Codex`
 
 ### Skill Collections
 
