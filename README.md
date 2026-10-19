@@ -45,9 +45,11 @@ This repository is not a package registry, a host for community skill files, a s
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — Preserves project decisions, reconciles affected documents, and prepares session handoffs with explicit delivery evidence. `Type: Skill` · `Platforms: Codex, GitHub Copilot`
 - [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — Deploys a Dockerfile, source folder, or container image to Cloudish and reports the live URL, using an API key the agent creates for itself. `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — Reserves bounded tasks from real project work for manual coding practice and reports verification metadata to ManualMode. `Type: Skill` · `Platforms: Cross-platform`
+- [Shipvela](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) — Publishes static websites through the hosted OAuth MCP connector with owner approval, deployment tracking, and build logs. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Openhook](https://github.com/openhook-dev/openhook-inbox/tree/main/skills/openhook) — Creates webhook inboxes, inspects callbacks, and forwards events to local handlers through MCP or REST. `Type: Skill` · `Platforms: Cross-platform`
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) — Inspect shipped binaries and JavaScript/Electron apps with REA evidence; deep native analysis requires separately installed Hopper, Ghidra, or IDA. `Type: Skill` · `Platforms: Codex`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
+- [what-could-break](https://github.com/stas4000/what-could-break) — Traces what an uncommitted change can break outside its own diff and requires running real code to prove the safety claim instead of describing the risk. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 #### Data & Analysis
 
@@ -70,6 +72,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Productivity & Organization
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — Coordinates complex work through a resumable local dependency graph, declared write scopes, reconciliation before retries, and repeatable closeout checks. `Type: Skill` · `Platforms: Codex`
+- [GFT Map](https://github.com/CoralLips/gft-map) — Turns linked Agent conversations into local, editable Doc and Map context that people can correct and later Agents can read. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — Previews and drafts durable agent Goals with acceptance evidence, drift controls, proportional verification, and explicit stop conditions. `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`

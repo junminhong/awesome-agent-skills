@@ -45,9 +45,11 @@
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — 保存專案決策、同步受影響文件，並附上明確的交付證據以準備工作階段交接。 `Type: Skill` · `Platforms: Codex, GitHub Copilot`
 - [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — 將 Dockerfile、原始碼資料夾或容器映像部署到 Cloudish 並回報上線網址，使用 Agent 自行建立的 API 金鑰。 `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
+- [Shipvela](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) — 透過託管的 OAuth MCP 連接器發布靜態網站，保留擁有者核准、部署追蹤與建置日誌。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Openhook](https://github.com/openhook-dev/openhook-inbox/tree/main/skills/openhook) — 透過 MCP 或 REST 建立 webhook 收件匣、檢查回呼，並將事件轉送至本機處理程式。 `Type: Skill` · `Platforms: Cross-platform`
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) — 透過 REA 證據分析已發布的二進位與 JavaScript/Electron 應用；原生深度分析需另行安裝 Hopper、Ghidra 或 IDA。 `Type: Skill` · `Platforms: Codex`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
+- [what-could-break](https://github.com/stas4000/what-could-break) — 追蹤未提交的變更在自身 diff 之外可能破壞的範圍，並要求實際執行程式碼來證明安全結論，而非只描述風險。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 #### 數據與分析
 
@@ -70,6 +72,7 @@
 #### 生產力與組織
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — 將複雜工作編排為可續接的本機相依圖，聲明寫入範圍，先核對結果不明的作業再重試，並於結案時重跑檢查。 `Type: Skill` · `Platforms: Codex`
+- [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — 預覽並起草可持續執行的 Agent Goal，明確驗收證據、防偏離規則、適度驗證與停止條件。 `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — 透過有範圍限制的授權，探索已安裝的技能、本機筆記與加密知識。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
