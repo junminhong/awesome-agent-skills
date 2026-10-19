@@ -43,13 +43,18 @@
 
 - [agent-architecture](https://github.com/Crabbb/agent-architecture) — 引導 Agent 架構需求探索與實證診斷，產出需求、能力方法、工具與狀態契約、架構圖及驗收準則。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — 保存專案決策、同步受影響文件，並附上明確的交付證據以準備工作階段交接。 `Type: Skill` · `Platforms: Codex, GitHub Copilot`
+- [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — 將 Dockerfile、原始碼資料夾或容器映像部署到 Cloudish 並回報上線網址，使用 Agent 自行建立的 API 金鑰。 `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
+- [Openhook](https://github.com/openhook-dev/openhook-inbox/tree/main/skills/openhook) — 透過 MCP 或 REST 建立 webhook 收件匣、檢查回呼，並將事件轉送至本機處理程式。 `Type: Skill` · `Platforms: Cross-platform`
+- [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) — 透過 REA 證據分析已發布的二進位與 JavaScript/Electron 應用；原生深度分析需另行安裝 Hopper、Ghidra 或 IDA。 `Type: Skill` · `Platforms: Codex`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — 根據真實介面參考建立產品專屬 UI 設計契約，並執行發布前完成度檢查。 `Type: Skill` · `Platforms: Cross-platform`
+- [what-could-break](https://github.com/stas4000/what-could-break) — 追蹤未提交的變更在自身 diff 之外可能破壞的範圍，並要求實際執行程式碼來證明安全結論，而非只描述風險。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 #### 數據與分析
 
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — 引導信用風險模型開發、驗證、報告與策略分析。 `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — 將混合研究來源編譯為由證書約束的分層知識文件，保留證據、適用範圍、觀點、爭議與被排除主張。 `Type: Skill` · `Platforms: Codex, Claude Code`
+- [TrendCite](https://github.com/Abaco3300/trendcite) — 收集 Hacker News、GitHub、RSS/Atom 與 Reddit 的公開訊號，並轉換為經評分、可追溯來源且包含信心程度與反面論點的內容機會簡報。 `Type: Skill + CLI` · `Platforms: Claude Code`
 - [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — 透過 REST、MCP、SDK 或 webhook 工作流程處理 X 研究、資料擷取、監測與需確認的發布操作。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 溝通與寫作
@@ -60,22 +65,29 @@
 
 #### 創意與媒體
 
+- [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — 將論文插圖與技術示意圖復建為可編輯的 PowerPoint 圖形、文字與連接器，並保留經稽核的 LaTeX 素材。 `Type: Skill + CLI` · `Platforms: Codex`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 生產力與組織
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — 將複雜工作編排為可續接的本機相依圖，聲明寫入範圍，先核對結果不明的作業再重試，並於結案時重跑檢查。 `Type: Skill` · `Platforms: Codex`
 - [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — 透過有範圍限制的授權，探索已安裝的技能、本機筆記與加密知識。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
 
+- [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — 為程式設計助理提供可重複使用的 Agent Skills 目錄、角色、MCP 範本，以及多代理迴圈與群組工作流程。 `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
+- [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — 將任務指派給一個可問責的 specialist skill，並提供該 specialist 的 skill 檔案。 `Type: Collection` · `Platforms: Cross-platform`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 涵蓋 Agent 編排、程式碼審查、評估、產品、設計與成長工作流程的多領域集合。 `Type: Collection` · `Platforms: Cross-platform`
+- [The Enso Method](https://github.com/EnsoDynamics/enso-method) — 引導程式設計代理執行需求、設計、實作與審查，並記錄業務假設、佐證與信心程度。 `Type: Collection` · `Platforms: Claude Code, Codex`
 
 ### Tooling & Integrations
 
@@ -84,6 +96,7 @@
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
+- [UNSLOP](https://github.com/0design/unslop-skill) — 使用完整外掛設定，依設計系統契約與固定版本規則稽核生成的 UI，並撰寫修正計畫（[網站](https://oleg.design/unslop)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 
 ## 使用收錄專案
 

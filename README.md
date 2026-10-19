@@ -43,13 +43,18 @@ This repository is not a package registry, a host for community skill files, a s
 
 - [agent-architecture](https://github.com/Crabbb/agent-architecture) — Guides agent architecture discovery and evidence-based diagnosis, producing requirements, capability methods, tool and state contracts, diagrams, and acceptance criteria. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — Preserves project decisions, reconciles affected documents, and prepares session handoffs with explicit delivery evidence. `Type: Skill` · `Platforms: Codex, GitHub Copilot`
+- [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — Deploys a Dockerfile, source folder, or container image to Cloudish and reports the live URL, using an API key the agent creates for itself. `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — Reserves bounded tasks from real project work for manual coding practice and reports verification metadata to ManualMode. `Type: Skill` · `Platforms: Cross-platform`
+- [Openhook](https://github.com/openhook-dev/openhook-inbox/tree/main/skills/openhook) — Creates webhook inboxes, inspects callbacks, and forwards events to local handlers through MCP or REST. `Type: Skill` · `Platforms: Cross-platform`
+- [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) — Inspect shipped binaries and JavaScript/Electron apps with REA evidence; deep native analysis requires separately installed Hopper, Ghidra, or IDA. `Type: Skill` · `Platforms: Codex`
 - [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) — Builds a product-specific UI design contract and applies a pre-ship finish gate using real interface references. `Type: Skill` · `Platforms: Cross-platform`
+- [what-could-break](https://github.com/stas4000/what-could-break) — Traces what an uncommitted change can break outside its own diff and requires running real code to prove the safety claim instead of describing the risk. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 #### Data & Analysis
 
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — Guides credit-risk model development, validation, reporting, and strategy analysis. `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — Compiles mixed research sources into certificate-backed knowledge documents that preserve evidence, scope, viewpoints, disputes, and rejected claims. `Type: Skill` · `Platforms: Codex, Claude Code`
+- [TrendCite](https://github.com/Abaco3300/trendcite) — Collects public Hacker News, GitHub, RSS/Atom, and Reddit signals and turns them into scored, source-traceable content opportunity briefs with confidence and counterpoints. `Type: Skill + CLI` · `Platforms: Claude Code`
 - [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — Routes X research, extraction, monitoring, and confirmation-gated publishing through REST, MCP, SDK, or webhook workflows. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Communication & Writing
@@ -60,22 +65,29 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Creative & Media
 
+- [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — Reconstructs paper figures and technical diagrams as editable PowerPoint shapes, live text, and connectors, with audited LaTeX assets. `Type: Skill + CLI` · `Platforms: Codex`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — Teaches agents to run image, video, audio, and language-model jobs through the RunAPI CLI. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Productivity & Organization
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — Coordinates complex work through a resumable local dependency graph, declared write scopes, reconciliation before retries, and repeatable closeout checks. `Type: Skill` · `Platforms: Codex`
 - [GFT Map](https://github.com/CoralLips/gft-map) — Turns linked Agent conversations into local, editable Doc and Map context that people can correct and later Agents can read. `Type: Skill` · `Platforms: Codex, Claude Code`
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
 
+- [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — Equips coding assistants with a reusable catalog of Agent Skills, personas, MCP templates, and multi-agent loop and swarm workflows. `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Turns authorized application source code into runnable Function, MCP tool, workflow Skill, and offline-test packages, with separate flow and source review skills. `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
+- [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — Guides agents through inbox triage, file search, meeting scheduling, subscription tracking, meal planning, backups, task capture, translation, batch file operations, and Cloudflare infrastructure management, with confirmation before irreversible actions. `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — Guides agents through content-creator workflows for YouTube scripting, thumbnail concepts, SEO, and audience personas. `Type: Collection` · `Platforms: Cross-platform`
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) — Guides agents through UI and typography audits, code review, documentation, PR maintenance, and npm releases with 27 skills. `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — Guides agents through SEO, GEO, paid-media, and analytics workflows using live marketing data and approval-gated changes. `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — Routes coding agents through 14 skills for planning, composing, editing, generating, and assembling videos. `Type: Collection` · `Platforms: Codex, Claude Code`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — Guides agents through software design, implementation, release checks, and documentation workflows. `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — Routes a task to one accountable specialist skill and supplies that specialist's skill files. `Type: Collection` · `Platforms: Cross-platform`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — A multi-domain collection covering agent orchestration, code review, evaluation, product, design, and growth workflows. `Type: Collection` · `Platforms: Cross-platform`
+- [The Enso Method](https://github.com/EnsoDynamics/enso-method) — Guides coding agents through requirements, design, implementation and review while recording business assumptions with evidence and confidence. `Type: Collection` · `Platforms: Claude Code, Codex`
 
 ### Tooling & Integrations
 
@@ -84,6 +96,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [SandBase](https://github.com/sandbaseai/cli) — Connects AI agents to unified model and tool APIs through a local CLI-managed MCP bridge and Agent Skill. `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — Inspects third-party Agent Skills before installation and surfaces static risk findings, token estimates, and quality scores for agent-assisted review. `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — Provides supervised X research, publishing, media, follower export, giveaway, and monitoring workflows. `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
+- [UNSLOP](https://github.com/0design/unslop-skill) — Audits generated UI against design-system contracts and pinned rules, then writes fix plans using the full plugin setup ([website](https://oleg.design/unslop)). `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 
 ## Using a Listed Project
 
