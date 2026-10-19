@@ -53,6 +53,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Data & Analysis
 
+- [AuditorProcessual](https://github.com/lucianumm/AuditorProcessual) — Guides Brazilian legal case analysis, evidence tracing, official-source research, and labor-law petition drafting. `Type: Skill` · `Platforms: Cross-platform`
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — Guides credit-risk model development, validation, reporting, and strategy analysis. `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — Compiles mixed research sources into certificate-backed knowledge documents that preserve evidence, scope, viewpoints, disputes, and rejected claims. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [TrendCite](https://github.com/Abaco3300/trendcite) — Collects public Hacker News, GitHub, RSS/Atom, and Reddit signals and turns them into scored, source-traceable content opportunity briefs with confidence and counterpoints. `Type: Skill + CLI` · `Platforms: Claude Code`
