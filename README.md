@@ -93,6 +93,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — Routes a task to one accountable specialist skill and supplies that specialist's skill files. `Type: Collection` · `Platforms: Cross-platform`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — A multi-domain collection covering agent orchestration, code review, evaluation, product, design, and growth workflows. `Type: Collection` · `Platforms: Cross-platform`
 - [The Enso Method](https://github.com/EnsoDynamics/enso-method) — Guides coding agents through requirements, design, implementation and review while recording business assumptions with evidence and confidence. `Type: Collection` · `Platforms: Claude Code, Codex`
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### Tooling & Integrations
 
