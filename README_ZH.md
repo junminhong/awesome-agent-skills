@@ -82,6 +82,7 @@
 ### Skill Collections
 
 - [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — 為程式設計助理提供可重複使用的 Agent Skills 目錄、角色、MCP 範本，以及多代理迴圈與群組工作流程。 `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
+- [BlockVectra skills](https://github.com/blockvectra/skills) — 引導 Agent 進行 EVM RPC 與索引資料查詢、錢包簽章註冊及 API 金鑰管理。 `Type: Collection` · `Platforms: Claude Code`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`

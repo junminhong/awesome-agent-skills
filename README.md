@@ -82,6 +82,7 @@ This repository is not a package registry, a host for community skill files, a s
 ### Skill Collections
 
 - [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — Equips coding assistants with a reusable catalog of Agent Skills, personas, MCP templates, and multi-agent loop and swarm workflows. `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
+- [BlockVectra skills](https://github.com/blockvectra/skills) — Guides agents through EVM RPC and indexed-data queries, wallet-signature sign-up, and API key management. `Type: Collection` · `Platforms: Claude Code`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Turns authorized application source code into runnable Function, MCP tool, workflow Skill, and offline-test packages, with separate flow and source review skills. `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — Guides agents through inbox triage, file search, meeting scheduling, subscription tracking, meal planning, backups, task capture, translation, batch file operations, and Cloudflare infrastructure management, with confirmation before irreversible actions. `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — Guides agents through content-creator workflows for YouTube scripting, thumbnail concepts, SEO, and audience personas. `Type: Collection` · `Platforms: Cross-platform`
