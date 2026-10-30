@@ -100,6 +100,7 @@
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — 以可重複使用的推理程序，引導 Agent 檢查假設、比較選項及評估證據。 `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
+- [QFactory](https://github.com/0design/qfactory-skill) — 引導 Agent 從 QFactory 目錄尋找及調整可重複使用的工作流程，再透過 Q-Core 在本機執行已核准的工作流程（[網站](https://qfactory.io)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [rhost](https://github.com/starfield17/rhost) — 讓 Agent 在可透過 SSH 連線的 Linux 主機上，以近似本機程序的語義執行一般指令。 `Type: CLI + Plugin + Skill` · `Platforms: Agent Skills-compatible agents`
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
