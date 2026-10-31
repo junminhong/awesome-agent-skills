@@ -90,6 +90,7 @@
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
+- [Recommerce](https://github.com/budna-marketplace/recommerce) — 引導 Agent 處理二手購物：依適用性與總成本比較刊登、組合相容的整套設備、檢查物品、規劃取貨、權衡保留、維修或更換，並在決定前重新確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [Research Agent Skills](https://github.com/KalarisLabs/research-agent-skills) — 引導 Agent 完成完整的學術研究生命週期：文獻與系統性回顧、假設生成、實驗設計、各領域資料分析、論文寫作、引用核對、期刊投稿與同儕審查。 `Type: Collection` · `Platforms: Cross-platform`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — 將任務指派給一個可問責的 specialist skill，並提供該 specialist 的 skill 檔案。 `Type: Collection` · `Platforms: Cross-platform`
