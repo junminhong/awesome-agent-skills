@@ -106,6 +106,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — Inspects third-party Agent Skills before installation and surfaces static risk findings, token estimates, and quality scores for agent-assisted review. `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — Provides supervised X research, publishing, media, follower export, giveaway, and monitoring workflows. `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — Audits generated UI against design-system contracts and pinned rules, then writes fix plans using the full plugin setup ([website](https://oleg.design/unslop)). `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
+- [usage-float](https://github.com/akiiwa-games/usage-float) — Exports multi-account AI subscription quotas and reset-window telemetry for agent routing workflows via a headless CLI, a local JSON cache, and a check-quota skill, with a Windows quota HUD. `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 
 ## Using a Listed Project
 

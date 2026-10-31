@@ -106,6 +106,7 @@
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — 使用完整外掛設定，依設計系統契約與固定版本規則稽核生成的 UI，並撰寫修正計畫（[網站](https://oleg.design/unslop)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
+- [usage-float](https://github.com/akiiwa-games/usage-float) — 透過無介面 CLI、本機 JSON 快取與 check-quota 技能，為 Agent 路由工作流程匯出多帳號訂閱額度與重置視窗遙測，並提供 Windows 額度懸浮面板。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 
 ## 使用收錄專案
 
