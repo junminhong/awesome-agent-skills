@@ -82,7 +82,6 @@
 
 ### Skill Collections
 
-- [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — 為程式設計助理提供可重複使用的 Agent Skills 目錄、角色、MCP 範本，以及多代理迴圈與群組工作流程。 `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
@@ -90,6 +89,7 @@
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
+- [pikpak-skills](https://github.com/pipiguai87-alt/pikpak-skills) — 引导 agent 完成 PikPak 云盘操作：磁力与分享链接转存、空间体检、重复与广告文件复核、媒体库索引、WebDAV 接入、下载速度诊断；默认只读，移入回收站前必须由用户确认。`Type: Collection` · `Platforms: Agent Skills-compatible agents, OpenClaw`
 - [Research Agent Skills](https://github.com/KalarisLabs/research-agent-skills) — 引導 Agent 完成完整的學術研究生命週期：文獻與系統性回顧、假設生成、實驗設計、各領域資料分析、論文寫作、引用核對、期刊投稿與同儕審查。 `Type: Collection` · `Platforms: Cross-platform`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — 將任務指派給一個可問責的 specialist skill，並提供該 specialist 的 skill 檔案。 `Type: Collection` · `Platforms: Cross-platform`
