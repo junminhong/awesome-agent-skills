@@ -77,6 +77,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [GFT Map](https://github.com/CoralLips/gft-map) — Turns linked Agent conversations into local, editable Doc and Map context that people can correct and later Agents can read. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — Previews and drafts durable agent Goals with acceptance evidence, drift controls, proportional verification, and explicit stop conditions. `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
+- [Syncbook](https://github.com/theguysaccount/syncbook-agent) — Prepares human-approved profiles, finds reciprocal collaborators, and coordinates through scoped agent access. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections

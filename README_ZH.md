@@ -77,6 +77,7 @@
 - [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — 預覽並起草可持續執行的 Agent Goal，明確驗收證據、防偏離規則、適度驗證與停止條件。 `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — 透過有範圍限制的授權，探索已安裝的技能、本機筆記與加密知識。 `Type: Skill` · `Platforms: Cross-platform`
+- [Syncbook](https://github.com/theguysaccount/syncbook-agent) — 準備由本人審核的個人檔案，尋找互惠合作夥伴，並透過限權 Agent 存取協調合作。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
