@@ -100,6 +100,7 @@
 ### Tooling & Integrations
 
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
+- [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — 依任務適配度與訂閱額度視窗分派 Agent 任務，並提供可選的 PreToolUse 啟動門禁。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
 - [go-public](https://github.com/B0yko/go-public) — 引導 Agent 稽核 Git 歷史中的機密與個人資料，經人工審閱修正後產生匯出副本，並在發布前重新掃描。 `Type: Plugin + Skill` · `Platforms: Claude Code`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — 以可重複使用的推理程序，引導 Agent 檢查假設、比較選項及評估證據。 `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`

@@ -100,6 +100,7 @@ This repository is not a package registry, a host for community skill files, a s
 ### Tooling & Integrations
 
 - [Agent QA](https://github.com/vostride/agent-qa) — Runs natural-language web and mobile QA workflows through a CLI, MCP server, and three evidence-oriented Agent Skills. `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
+- [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — Routes agent tasks across subscribed models using task fit and quota windows, with an optional PreToolUse launch gate. `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 - [Divan](https://github.com/trugurpala/divan) — Guides Codex through natural-language software tasks, implementation, review, and verification. `Type: Plugin + Collection` · `Platforms: Codex`
 - [go-public](https://github.com/B0yko/go-public) — Guides agents through Git-history audits for secrets and personal data, human-reviewed fixes, and rescanned exports before publication. `Type: Plugin + Skill` · `Platforms: Claude Code`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — Guides agents through checking assumptions, comparing options, and evaluating evidence with reusable reasoning procedures. `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
