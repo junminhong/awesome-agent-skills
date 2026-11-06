@@ -87,6 +87,7 @@
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
 - [EditRoast Open Skills](https://github.com/ELForestBali/editroast-open-skills) — 提供兩個可重複使用的 Agent Skills，協助逐章分析與校對完整書稿，支援本機檔案準備及可續接的處理流程。 `Type: Collection` · `Platforms: Claude Code, Codex`
+- [Faber Agent Skills](https://github.com/faberlang/faberlang.dev/tree/main/static/.well-known/agent-skills) — 安裝並引導 Agent 使用 Faber（install、language、packages、corpus）：面向編碼 Agent 與人類作者的靜態型別語言，可輸出 Rust、TypeScript、Go、Swift 等。 `Type: Collection` · `Platforms: Cross-platform`
 - [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) — 引導 Agent 透過已授權的 Fillfolio MCP 連線，執行唯讀投資組合、現金、支出及預算檢視。 `Type: Collection` · `Platforms: Codex`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
