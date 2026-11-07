@@ -102,6 +102,7 @@
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
 - [go-public](https://github.com/B0yko/go-public) — 引導 Agent 稽核 Git 歷史中的機密與個人資料，經人工審閱修正後產生匯出副本，並在發布前重新掃描。 `Type: Plugin + Skill` · `Platforms: Claude Code`
+- [looot](https://github.com/loootai/looot-plugin) — 透過一個預付 API Key，為 Agent 提供工作信箱與電話查詢、信箱驗證及公司資訊補全。 `Type: Plugin` · `Platforms: Claude Code, Codex, Cursor`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — 以可重複使用的推理程序，引導 Agent 檢查假設、比較選項及評估證據。 `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
 - [QFactory](https://github.com/0design/qfactory-skill) — 引導 Agent 從 QFactory 目錄尋找及調整可重複使用的工作流程，再透過 Q-Core 在本機執行已核准的工作流程（[網站](https://qfactory.io)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [rhost](https://github.com/starfield17/rhost) — 讓 Agent 在可透過 SSH 連線的 Linux 主機上，以近似本機程序的語義執行一般指令。 `Type: CLI + Plugin + Skill` · `Platforms: Agent Skills-compatible agents`
