@@ -77,18 +77,22 @@
 - [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — 預覽並起草可持續執行的 Agent Goal，明確驗收證據、防偏離規則、適度驗證與停止條件。 `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — 透過有範圍限制的授權，探索已安裝的技能、本機筆記與加密知識。 `Type: Skill` · `Platforms: Cross-platform`
+- [Syncbook](https://github.com/theguysaccount/syncbook-agent) — 準備由本人審核的個人檔案，尋找互惠合作夥伴，並透過限權 Agent 存取協調合作。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
 
 - [Agent Toolkit](https://github.com/ulises-jeremias/agent-toolkit) — 為程式設計助理提供可重複使用的 Agent Skills 目錄、角色、MCP 範本，以及多代理迴圈與群組工作流程。 `Type: Collection` · `Platforms: Claude Code, Cursor, OpenCode, GitHub Copilot, Windsurf, Pi`
+- [BlockVectra skills](https://github.com/blockvectra/skills) — 引導 Agent 進行 EVM RPC 與索引資料查詢、錢包簽章註冊及 API 金鑰管理。 `Type: Collection` · `Platforms: Claude Code`
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
+- [EditRoast Open Skills](https://github.com/ELForestBali/editroast-open-skills) — 提供兩個可重複使用的 Agent Skills，協助逐章分析與校對完整書稿，支援本機檔案準備及可續接的處理流程。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) — 引導 Agent 透過已授權的 Fillfolio MCP 連線，執行唯讀投資組合、現金、支出及預算檢視。 `Type: Collection` · `Platforms: Codex`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
+- [Recommerce](https://github.com/budna-marketplace/recommerce) — 引導 Agent 處理全新與二手購物：依適用性與總成本比較刊登、組合相容的整套設備、檢查物品、規劃取貨、權衡保留、維修或更換，並在決定前重新確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [Research Agent Skills](https://github.com/KalarisLabs/research-agent-skills) — 引導 Agent 完成完整的學術研究生命週期：文獻與系統性回顧、假設生成、實驗設計、各領域資料分析、論文寫作、引用核對、期刊投稿與同儕審查。 `Type: Collection` · `Platforms: Cross-platform`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — 將任務指派給一個可問責的 specialist skill，並提供該 specialist 的 skill 檔案。 `Type: Collection` · `Platforms: Cross-platform`
@@ -100,12 +104,15 @@
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
 - [multi-llm](https://github.com/beastlabai/multi-llm-plugin) — 透過多個程式開發 CLI 並行執行計畫審查、任務產生、實作與程式碼審查。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex, OpenCode`
+- [go-public](https://github.com/B0yko/go-public) — 引導 Agent 稽核 Git 歷史中的機密與個人資料，經人工審閱修正後產生匯出副本，並在發布前重新掃描。 `Type: Plugin + Skill` · `Platforms: Claude Code`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — 以可重複使用的推理程序，引導 Agent 檢查假設、比較選項及評估證據。 `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
+- [QFactory](https://github.com/0design/qfactory-skill) — 引導 Agent 從 QFactory 目錄尋找及調整可重複使用的工作流程，再透過 Q-Core 在本機執行已核准的工作流程（[網站](https://qfactory.io)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [rhost](https://github.com/starfield17/rhost) — 讓 Agent 在可透過 SSH 連線的 Linux 主機上，以近似本機程序的語義執行一般指令。 `Type: CLI + Plugin + Skill` · `Platforms: Agent Skills-compatible agents`
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — 使用完整外掛設定，依設計系統契約與固定版本規則稽核生成的 UI，並撰寫修正計畫（[網站](https://oleg.design/unslop)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
+- [usage-float](https://github.com/akiiwa-games/usage-float) — 透過無介面 CLI、本機 JSON 快取與 check-quota 技能，為 Agent 路由工作流程匯出多帳號訂閱額度與重置視窗遙測，並提供 Windows 額度懸浮面板。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 
 ## 使用收錄專案
 
