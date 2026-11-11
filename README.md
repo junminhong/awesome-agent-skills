@@ -69,6 +69,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Creative & Media
 
 - [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — Reconstructs paper figures and technical diagrams as editable PowerPoint shapes, live text, and connectors, with audited LaTeX assets. `Type: Skill + CLI` · `Platforms: Codex`
+- [imagegen-swarm](https://github.com/Ekko237/imagegen-swarm) — Runs Codex, Jimeng, Grok, Gemini, Muse and Lovart in parallel on one quota-aware, resumable image queue for Claude Code and Codex. `Type: Skill` · `Platforms: Claude Code, Codex`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — Teaches agents to run image, video, audio, and language-model jobs through the RunAPI CLI. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Productivity & Organization
