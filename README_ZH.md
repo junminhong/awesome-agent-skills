@@ -89,6 +89,7 @@
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
 - [EditRoast Open Skills](https://github.com/ELForestBali/editroast-open-skills) — 提供兩個可重複使用的 Agent Skills，協助逐章分析與校對完整書稿，支援本機檔案準備及可續接的處理流程。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) — 引導 Agent 透過已授權的 Fillfolio MCP 連線，執行唯讀投資組合、現金、支出及預算檢視。 `Type: Collection` · `Platforms: Codex`
+- [Leadsets GTM skills](https://github.com/leadsets/leadsets-skills) — 引導 Agent 透過 Leadsets MCP 伺服器（Unlimited B2B Contact Data）執行 B2B 潛在客戶搜尋、聯絡人資料補全、電子郵件驗證、客戶研究與 CRM 清理。 `Type: Collection` · `Platforms: Cross-platform`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
