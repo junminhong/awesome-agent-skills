@@ -53,6 +53,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Data & Analysis
 
+- [AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot) — Queries Chinese-language AI industry news, current topics, and daily briefings through a public read-only API. `Type: Skill` · `Platforms: Cross-platform`
 - [AuditorProcessual](https://github.com/lucianumm/AuditorProcessual) — Guides Brazilian legal case analysis, evidence tracing, official-source research, and labor-law petition drafting. `Type: Skill` · `Platforms: Cross-platform`
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — Guides credit-risk model development, validation, reporting, and strategy analysis. `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — Compiles mixed research sources into certificate-backed knowledge documents that preserve evidence, scope, viewpoints, disputes, and rejected claims. `Type: Skill` · `Platforms: Codex, Claude Code`

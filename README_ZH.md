@@ -53,6 +53,7 @@
 
 #### 數據與分析
 
+- [AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot) — 透過公開唯讀 API 查詢中文 AI 產業新聞、熱門話題與每日簡報。 `Type: Skill` · `Platforms: Cross-platform`
 - [AuditorProcessual](https://github.com/lucianumm/AuditorProcessual) — 引導巴西法律案件分析、證據追溯、官方來源研究及勞動法起訴狀撰寫。 `Type: Skill` · `Platforms: Cross-platform`
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — 引導信用風險模型開發、驗證、報告與策略分析。 `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — 將混合研究來源編譯為由證書約束的分層知識文件，保留證據、適用範圍、觀點、爭議與被排除主張。 `Type: Skill` · `Platforms: Codex, Claude Code`
