@@ -70,6 +70,7 @@
 
 - [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — 將論文插圖與技術示意圖復建為可編輯的 PowerPoint 圖形、文字與連接器，並保留經稽核的 LaTeX 素材。 `Type: Skill + CLI` · `Platforms: Codex`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
+- [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) — 讓 Agent 透過 GetYouTubeTranscript API 取得任意字幕語言的 YouTube 影片逐字稿（可選時間戳與翻譯），並搜尋影片、頻道與播放清單。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 生產力與組織
 
