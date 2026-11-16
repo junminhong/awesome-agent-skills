@@ -61,6 +61,7 @@
 
 #### 溝通與寫作
 
+- [cn-workdocs](https://github.com/zhuyep/cn-workdocs) — 起草、改寫、壓縮或審查可決策、可追溯的中文工作文件（報告、方案、紀要、講話），並顯式標出缺口。 `Type: Skill` · `Platforms: Cursor, Codex, Agent Skills-compatible agents`
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — 規劃、起草、研究、編修與審閱文章，同時保留作者語氣、證據與不確定性。 `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
 - [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — 指導 Agent 撰寫、潤飾及審閱中文與英文內容，保留作者語氣和有用細節。 `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — 指導小說規劃、起草與修訂，檢查人物視角、場景因果、對白及作者文風的保留。 `Type: Skill` · `Platforms: Codex`
