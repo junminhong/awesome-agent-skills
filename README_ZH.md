@@ -104,6 +104,7 @@
 ### Tooling & Integrations
 
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
+- [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — 依任務適配度與訂閱額度視窗分派 Agent 任務，並提供可選的 PreToolUse 啟動門禁。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 - [call-me](https://github.com/radres/call-me) — 讓 Agent 撥打電話或傳簡訊到使用者的 iPhone 或 Android 手機、朗讀問題，並透過託管的 MCP 伺服器與付費配套 App 將口頭回答轉成文字傳回。 `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) — 讓程式開發 Agent 在 Mac 上診斷 API 連線失敗、DNS、路由與計量網路狀態。 `Type: CLI + MCP` · `Platforms: Claude Code, Codex`
