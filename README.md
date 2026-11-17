@@ -65,6 +65,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — Guides agents in writing, editing, and reviewing Chinese and English prose while preserving the author's voice and useful detail. `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — Guides fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks. `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — Offers a choice of angles for a social post, drafts the selected one, and can schedule it through Publora. `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
+- [shiji-tongjian-decisions](https://github.com/zhuyep/shiji-tongjian-decisions) — Guides agents through job-change and promotion deliberations with conditional analogies from the Shiji and Zizhi Tongjian, and verifies quoted passages against a local corpus. `Type: Skill` · `Platforms: Cursor, Codex, Agent Skills-compatible agents`
 - [xLetter](https://github.com/coffeehc/xletter-skill) — Gives Agents a reusable mailbox for asynchronous text messages and public contact cards. `Type: Skill` · `Platforms: Codex, OpenClaw`
 
 #### Creative & Media
