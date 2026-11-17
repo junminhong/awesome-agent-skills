@@ -62,6 +62,7 @@
 #### 溝通與寫作
 
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — 規劃、起草、研究、編修與審閱文章，同時保留作者語氣、證據與不確定性。 `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
+- [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — 指導 Agent 撰寫、潤飾及審閱中文與英文內容，保留作者語氣和有用細節。 `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — 指導小說規劃、起草與修訂，檢查人物視角、場景因果、對白及作者文風的保留。 `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — 提供社群貼文的多個切入角度供選擇，撰寫選定的那一個，並可透過 Publora 排程發布。 `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
 - [xLetter](https://github.com/coffeehc/xletter-skill) — 為 Agent 提供可重複使用的信箱，用於非同步文字訊息與公開聯絡名片。 `Type: Skill` · `Platforms: Codex, OpenClaw`
@@ -69,7 +70,8 @@
 #### 創意與媒體
 
 - [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — 將論文插圖與技術示意圖復建為可編輯的 PowerPoint 圖形、文字與連接器，並保留經稽核的 LaTeX 素材。 `Type: Skill + CLI` · `Platforms: Codex`
-- [imagegen-swarm](https://github.com/Ekko237/imagegen-swarm) — 把 Codex、即梦（Jimeng）、Grok、Gemini、Muse、Lovart 放进同一个可续跑、会看额度的出图队列，供 Claude Code 和 Codex 使用。 `Type: Skill` · `Platforms: Claude Code, Codex`
+- [imagegen-swarm](https://github.com/Ekko237/imagegen-swarm) — 把 Codex、即夢（Jimeng）、Grok、Gemini、Muse、Lovart 放進同一個可續跑、會看額度的出圖佇列，供 Claude Code 和 Codex 使用。 `Type: Skill` · `Platforms: Claude Code, Codex`
+- [InkRoom Prompts Skill](https://github.com/InkRoom-AI/inkroom-prompts/tree/main/skills/inkroom-prompts) — 搜尋附原始示例圖的公開圖片提示詞，並協助改寫提示詞文字。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 生產力與組織
@@ -78,6 +80,7 @@
 - [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — 預覽並起草可持續執行的 Agent Goal，明確驗收證據、防偏離規則、適度驗證與停止條件。 `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — 透過有範圍限制的授權，探索已安裝的技能、本機筆記與加密知識。 `Type: Skill` · `Platforms: Cross-platform`
+- [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — 引導 Agent 透過官方 PikPak CLI 登入、儲存一個獲授權的網址，並核對雲端檔案中繼資料。 `Type: Skill` · `Platforms: Codex`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — 準備由本人審核的個人檔案，尋找互惠合作夥伴，並透過限權 Agent 存取協調合作。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
@@ -103,13 +106,17 @@
 ### Tooling & Integrations
 
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
+- [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — 依任務適配度與訂閱額度視窗分派 Agent 任務，並提供可選的 PreToolUse 啟動門禁。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
+- [call-me](https://github.com/radres/call-me) — 讓 Agent 撥打電話或傳簡訊到使用者的 iPhone 或 Android 手機、朗讀問題，並透過託管的 MCP 伺服器與付費配套 App 將口頭回答轉成文字傳回。 `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) — 讓程式開發 Agent 在 Mac 上診斷 API 連線失敗、DNS、路由與計量網路狀態。 `Type: CLI + MCP` · `Platforms: Claude Code, Codex`
 - [multi-llm](https://github.com/beastlabai/multi-llm-plugin) — 透過多個程式開發 CLI 並行執行計畫審查、任務產生、實作與程式碼審查。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex, OpenCode`
 - [go-public](https://github.com/B0yko/go-public) — 引導 Agent 稽核 Git 歷史中的機密與個人資料，經人工審閱修正後產生匯出副本，並在發布前重新掃描。 `Type: Plugin + Skill` · `Platforms: Claude Code`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — 以可重複使用的推理程序，引導 Agent 檢查假設、比較選項及評估證據。 `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
 - [QFactory](https://github.com/0design/qfactory-skill) — 引導 Agent 從 QFactory 目錄尋找及調整可重複使用的工作流程，再透過 Q-Core 在本機執行已核准的工作流程（[網站](https://qfactory.io)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [rhost](https://github.com/starfield17/rhost) — 讓 Agent 在可透過 SSH 連線的 Linux 主機上，以近似本機程序的語義執行一般指令。 `Type: CLI + Plugin + Skill` · `Platforms: Agent Skills-compatible agents`
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
+- [Skill Bundle Check](https://github.com/LydiaTools/skill-bundle-check) — 檢查 Agent Skill 安裝路徑與套件內引用，並比對檔案副本，無須執行 Skill。 `Type: CLI` · `Platforms: Codex, Claude Code`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — 使用完整外掛設定，依設計系統契約與固定版本規則稽核生成的 UI，並撰寫修正計畫（[網站](https://oleg.design/unslop)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`

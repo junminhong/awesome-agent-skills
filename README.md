@@ -62,6 +62,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Communication & Writing
 
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — Plans, drafts, researches, edits, and reviews essays while preserving voice, evidence, and uncertainty. `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
+- [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — Guides agents in writing, editing, and reviewing Chinese and English prose while preserving the author's voice and useful detail. `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — Guides fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks. `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — Offers a choice of angles for a social post, drafts the selected one, and can schedule it through Publora. `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
 - [xLetter](https://github.com/coffeehc/xletter-skill) — Gives Agents a reusable mailbox for asynchronous text messages and public contact cards. `Type: Skill` · `Platforms: Codex, OpenClaw`
@@ -70,6 +71,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 - [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — Reconstructs paper figures and technical diagrams as editable PowerPoint shapes, live text, and connectors, with audited LaTeX assets. `Type: Skill + CLI` · `Platforms: Codex`
 - [imagegen-swarm](https://github.com/Ekko237/imagegen-swarm) — Runs Codex, Jimeng, Grok, Gemini, Muse and Lovart in parallel on one quota-aware, resumable image queue for Claude Code and Codex. `Type: Skill` · `Platforms: Claude Code, Codex`
+- [InkRoom Prompts Skill](https://github.com/InkRoom-AI/inkroom-prompts/tree/main/skills/inkroom-prompts) — Finds public image prompts with their original examples and helps rewrite prompt text. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — Teaches agents to run image, video, audio, and language-model jobs through the RunAPI CLI. `Type: Skill` · `Platforms: Cross-platform`
 
 #### Productivity & Organization
@@ -78,6 +80,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [GFT Map](https://github.com/CoralLips/gft-map) — Turns linked Agent conversations into local, editable Doc and Map context that people can correct and later Agents can read. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — Previews and drafts durable agent Goals with acceptance evidence, drift controls, proportional verification, and explicit stop conditions. `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
+- [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — Guides agents through official PikPak CLI sign-in, saving one authorized URL, and checking cloud-file metadata. `Type: Skill` · `Platforms: Codex`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — Prepares human-approved profiles, finds reciprocal collaborators, and coordinates through scoped agent access. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
 
@@ -103,13 +106,17 @@ This repository is not a package registry, a host for community skill files, a s
 ### Tooling & Integrations
 
 - [Agent QA](https://github.com/vostride/agent-qa) — Runs natural-language web and mobile QA workflows through a CLI, MCP server, and three evidence-oriented Agent Skills. `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
+- [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — Routes agent tasks across subscribed models using task fit and quota windows, with an optional PreToolUse launch gate. `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
+- [call-me](https://github.com/radres/call-me) — Lets an Agent phone or text the user's iPhone or Android, read a question aloud, and get the spoken answer back as text through a hosted MCP server and a paid companion app. `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 - [Divan](https://github.com/trugurpala/divan) — Guides Codex through natural-language software tasks, implementation, review, and verification. `Type: Plugin + Collection` · `Platforms: Codex`
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) — Lets coding agents diagnose API connection failures, DNS, routes and metered network conditions on a Mac. `Type: CLI + MCP` · `Platforms: Claude Code, Codex`
 - [multi-llm](https://github.com/beastlabai/multi-llm-plugin) — Runs parallel plan reviews, task generation, implementation, and code reviews through multiple coding CLIs. `Type: Plugin + Skill` · `Platforms: Claude Code, Codex, OpenCode`
 - [go-public](https://github.com/B0yko/go-public) — Guides agents through Git-history audits for secrets and personal data, human-reviewed fixes, and rescanned exports before publication. `Type: Plugin + Skill` · `Platforms: Claude Code`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — Guides agents through checking assumptions, comparing options, and evaluating evidence with reusable reasoning procedures. `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
 - [QFactory](https://github.com/0design/qfactory-skill) — Guides agents to find and adapt reusable workflows from its catalog, then run approved workflows locally through Q-Core ([website](https://qfactory.io)). `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [rhost](https://github.com/starfield17/rhost) — Runs ordinary commands on SSH-reachable Linux hosts with local-like process semantics. `Type: CLI + Plugin + Skill` · `Platforms: Agent Skills-compatible agents`
 - [SandBase](https://github.com/sandbaseai/cli) — Connects AI agents to unified model and tool APIs through a local CLI-managed MCP bridge and Agent Skill. `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
+- [Skill Bundle Check](https://github.com/LydiaTools/skill-bundle-check) — Checks Agent Skill installation paths and bundle references and compares copies without executing them. `Type: CLI` · `Platforms: Codex, Claude Code`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — Inspects third-party Agent Skills before installation and surfaces static risk findings, token estimates, and quality scores for agent-assisted review. `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — Provides supervised X research, publishing, media, follower export, giveaway, and monitoring workflows. `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — Audits generated UI against design-system contracts and pinned rules, then writes fix plans using the full plugin setup ([website](https://oleg.design/unslop)). `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
