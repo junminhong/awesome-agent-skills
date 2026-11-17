@@ -61,6 +61,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 #### Communication & Writing
 
+- [cn-workdocs](https://github.com/zhuyep/cn-workdocs) — Draft, revise, compress, or audit evidence-aware Chinese workplace documents (reports, proposals, minutes, speeches) with explicit gaps. `Type: Skill` · `Platforms: Cursor, Codex, Agent Skills-compatible agents`
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — Plans, drafts, researches, edits, and reviews essays while preserving voice, evidence, and uncertainty. `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
 - [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — Guides agents in writing, editing, and reviewing Chinese and English prose while preserving the author's voice and useful detail. `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — Guides fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks. `Type: Skill` · `Platforms: Codex`
