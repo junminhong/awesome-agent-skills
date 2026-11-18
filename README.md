@@ -76,6 +76,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Productivity & Organization
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — Coordinates complex work through a resumable local dependency graph, declared write scopes, reconciliation before retries, and repeatable closeout checks. `Type: Skill` · `Platforms: Codex`
+- [Find Similar Jobs](https://github.com/johnisanerd/claude-skill-find-similar-jobs) — Finds open jobs similar to one posting and checks each against the employer's own careers board. `Type: Skill` · `Platforms: Claude Code, Cursor`
 - [GFT Map](https://github.com/CoralLips/gft-map) — Turns linked Agent conversations into local, editable Doc and Map context that people can correct and later Agents can read. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — Previews and drafts durable agent Goals with acceptance evidence, drift controls, proportional verification, and explicit stop conditions. `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
