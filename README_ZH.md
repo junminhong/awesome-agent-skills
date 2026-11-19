@@ -121,6 +121,7 @@
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — 使用完整外掛設定，依設計系統契約與固定版本規則稽核生成的 UI，並撰寫修正計畫（[網站](https://oleg.design/unslop)）。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [usage-float](https://github.com/akiiwa-games/usage-float) — 透過無介面 CLI、本機 JSON 快取與 check-quota 技能，為 Agent 路由工作流程匯出多帳號訂閱額度與重置視窗遙測，並提供 Windows 額度懸浮面板。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
+- [Wavegrain](https://github.com/wavegrain/wavegrain-mcp) - 讓 Agent 透過託管的 MCP 伺服器、Claude Code 外掛與 Agent Skill，在 Wavegrain 帳號中規劃、製作、編輯、排程及匯出 TikTok 投影片與 Instagram 輪播貼文（[網站](https://wavegrain.com)）。 `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 
 ## 使用收錄專案
 
