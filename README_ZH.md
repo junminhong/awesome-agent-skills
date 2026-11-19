@@ -43,6 +43,7 @@
 
 - [agent-architecture](https://github.com/Crabbb/agent-architecture) — 引導 Agent 架構需求探索與實證診斷，產出需求、能力方法、工具與狀態契約、架構圖及驗收準則。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [agent-context-lifecycle](https://github.com/Crabbb/agent-context-lifecycle) — 保存專案決策、同步受影響文件，並附上明確的交付證據以準備工作階段交接。 `Type: Skill` · `Platforms: Codex, GitHub Copilot`
+- [award-polish](https://github.com/Ekko237/award-polish) — 以 Awwwards 得獎作品為標竿打磨網站、Web 應用程式與 App 介面，搭配校準過的盲測評審與五種寬度的版面檢查，供 Claude Code 和 Codex 使用。 `Type: Skill` · `Platforms: Claude Code, Codex`
 - [Cloudish](https://github.com/cloudishai/skills/tree/main/skills/cloudish) — 將 Dockerfile、原始碼資料夾或容器映像部署到 Cloudish 並回報上線網址，使用 Agent 自行建立的 API 金鑰。 `Type: Skill` · `Platforms: Cross-platform`
 - [ManualMode](https://github.com/itscloud0/manualmode-skill) — 從實際專案工作中保留範圍明確的任務，供使用者手動練習編程，並向 ManualMode 回報驗證中繼資料。 `Type: Skill` · `Platforms: Cross-platform`
 - [Shipvela](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) — 透過託管的 OAuth MCP 連接器發布靜態網站，保留擁有者核准、部署追蹤與建置日誌。 `Type: Skill` · `Platforms: Codex, Claude Code`
