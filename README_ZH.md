@@ -65,6 +65,7 @@
 - [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — 指導 Agent 撰寫、潤飾及審閱中文與英文內容，保留作者語氣和有用細節。 `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — 指導小說規劃、起草與修訂，檢查人物視角、場景因果、對白及作者文風的保留。 `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — 提供社群貼文的多個切入角度供選擇，撰寫選定的那一個，並可透過 Publora 排程發布。 `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
+- [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) — 先追問並整理使用者確認過的事實清單，再依職缺描述改寫履歷，內容不超出這些事實。 `Type: Skill` · `Platforms: Claude Code, Codex, WorkBuddy`
 - [xLetter](https://github.com/coffeehc/xletter-skill) — 為 Agent 提供可重複使用的信箱，用於非同步文字訊息與公開聯絡名片。 `Type: Skill` · `Platforms: Codex, OpenClaw`
 
 #### 創意與媒體
