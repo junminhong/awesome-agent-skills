@@ -71,6 +71,7 @@
 #### 創意與媒體
 
 - [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — 將論文插圖與技術示意圖復建為可編輯的 PowerPoint 圖形、文字與連接器，並保留經稽核的 LaTeX 素材。 `Type: Skill + CLI` · `Platforms: Codex`
+- [imagegen-swarm](https://github.com/Ekko237/imagegen-swarm) — 把 Codex、即夢（Jimeng）、Grok、Gemini、Muse、Lovart 放進同一個可續跑、會看額度的出圖佇列，供 Claude Code 和 Codex 使用。 `Type: Skill` · `Platforms: Claude Code, Codex`
 - [InkRoom Prompts Skill](https://github.com/InkRoom-AI/inkroom-prompts/tree/main/skills/inkroom-prompts) — 搜尋附原始示例圖的公開圖片提示詞，並協助改寫提示詞文字。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
 
