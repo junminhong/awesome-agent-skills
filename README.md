@@ -82,6 +82,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — Discovers installed skills, local notes and encrypted knowledge through scoped grants. `Type: Skill` · `Platforms: Cross-platform`
 - [PikPak Download Receipt](https://github.com/alexjun1/pikpak-download-receipt) — Checks a user-selected local download's byte count and SHA-256, comparing trusted expectations when provided. `Type: Skill` · `Platforms: Codex`
 - [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — Guides agents through official PikPak CLI sign-in, saving one authorized URL, and checking cloud-file metadata. `Type: Skill` · `Platforms: Codex`
+- [recall-notes](https://github.com/tonydzi/sqlite-graph-memory/tree/main/plugin/skills/recall-notes) — Recalls past decisions and cites Markdown source notes using a prebuilt index and a separately configured SQLite Graph Memory server. `Type: Skill` · `Platforms: Claude Code`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — Prepares human-approved profiles, finds reciprocal collaborators, and coordinates through scoped agent access. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
 
