@@ -84,6 +84,7 @@
 - [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — 引導 Agent 透過官方 PikPak CLI 登入、儲存一個獲授權的網址，並核對雲端檔案中繼資料。 `Type: Skill` · `Platforms: Codex`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — 準備由本人審核的個人檔案，尋找互惠合作夥伴，並透過限權 Agent 存取協調合作。 `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
+- [Yumi Decision Ledger](https://github.com/noqt/yumi-decision-ledger) — 對帳明確提供的決策與修訂紀錄，並比對 Agent 交接卡是否符合更新後的紀錄。 `Type: Skill` · `Platforms: Codex`
 
 ### Skill Collections
 

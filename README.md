@@ -84,6 +84,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — Guides agents through official PikPak CLI sign-in, saving one authorized URL, and checking cloud-file metadata. `Type: Skill` · `Platforms: Codex`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — Prepares human-approved profiles, finds reciprocal collaborators, and coordinates through scoped agent access. `Type: Skill` · `Platforms: Cross-platform`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
+- [Yumi Decision Ledger](https://github.com/noqt/yumi-decision-ledger) — Reconciles supplied decision and revision ledgers and checks agent handoff cards against updated records. `Type: Skill` · `Platforms: Codex`
 
 ### Skill Collections
 
