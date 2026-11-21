@@ -123,6 +123,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — Provides supervised X research, publishing, media, follower export, giveaway, and monitoring workflows. `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 - [UNSLOP](https://github.com/0design/unslop-skill) — Audits generated UI against design-system contracts and pinned rules, then writes fix plans using the full plugin setup ([website](https://oleg.design/unslop)). `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [usage-float](https://github.com/akiiwa-games/usage-float) — Exports multi-account AI subscription quotas and reset-window telemetry for agent routing workflows via a headless CLI, a local JSON cache, and a check-quota skill, with a Windows quota HUD. `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
+- [Wavegrain](https://github.com/wavegrain/wavegrain-mcp) - Lets an Agent plan, make, edit, schedule and export TikTok slideshows and Instagram carousels in a Wavegrain account through a hosted MCP server, a Claude Code plugin and an Agent Skill ([website](https://wavegrain.com)). `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 
 ## Using a Listed Project
 
