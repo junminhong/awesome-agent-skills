@@ -106,6 +106,7 @@ This repository is not a package registry, a host for community skill files, a s
 
 ### Tooling & Integrations
 
+- [AdeptAds Google Ads](https://github.com/adeptads/agent-skills) — Lets an agent plan and draft Google Ads Search campaigns through AdeptAds, with the user reviewing before anything goes live. `Type: Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [Agent QA](https://github.com/vostride/agent-qa) — Runs natural-language web and mobile QA workflows through a CLI, MCP server, and three evidence-oriented Agent Skills. `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
 - [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — Routes agent tasks across subscribed models using task fit and quota windows, with an optional PreToolUse launch gate. `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 - [call-me](https://github.com/radres/call-me) — Lets an Agent phone or text the user's iPhone or Android, read a question aloud, and get the spoken answer back as text through a hosted MCP server and a paid companion app. `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
