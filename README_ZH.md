@@ -62,7 +62,6 @@
 #### 溝通與寫作
 
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — 規劃、起草、研究、編修與審閱文章，同時保留作者語氣、證據與不確定性。 `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
-- [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — 指導 Agent 撰寫、潤飾及審閱中文與英文內容，保留作者語氣和有用細節。 `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — 指導小說規劃、起草與修訂，檢查人物視角、場景因果、對白及作者文風的保留。 `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — 提供社群貼文的多個切入角度供選擇，撰寫選定的那一個，並可透過 Publora 排程發布。 `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
 - [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) — 先追問並整理使用者確認過的事實清單，再依職缺描述改寫履歷，內容不超出這些事實。 `Type: Skill` · `Platforms: Claude Code, Codex, WorkBuddy`
@@ -97,6 +96,7 @@
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
+- [QwQBiG/skills](https://github.com/QwQBiG/skills) — 引導 Codex 審查變更、找出可簡化的程式碼、潤飾中英文內容，並將文字與公式排成實拍紙張上的手寫筆記。 `Type: Collection` · `Platforms: Codex`
 - [Recommerce](https://github.com/budna-marketplace/recommerce) — 引導 Agent 處理全新與二手購物：依適用性與總成本比較刊登、組合相容的整套設備、檢查物品、規劃取貨、權衡保留、維修或更換，並在決定前重新確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [Research Agent Skills](https://github.com/KalarisLabs/research-agent-skills) — 引導 Agent 完成完整的學術研究生命週期：文獻與系統性回顧、假設生成、實驗設計、各領域資料分析、論文寫作、引用核對、期刊投稿與同儕審查。 `Type: Collection` · `Platforms: Cross-platform`
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
