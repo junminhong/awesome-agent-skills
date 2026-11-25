@@ -83,6 +83,7 @@
 - [PikPak Download Receipt](https://github.com/alexjun1/pikpak-download-receipt) — 核對使用者選定之本機下載檔案的位元組數與 SHA-256，並在提供可信預期值時進行比對。 `Type: Skill` · `Platforms: Codex`
 - [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — 引導 Agent 透過官方 PikPak CLI 登入、儲存一個獲授權的網址，並核對雲端檔案中繼資料。 `Type: Skill` · `Platforms: Codex`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — 準備由本人審核的個人檔案，尋找互惠合作夥伴，並透過限權 Agent 存取協調合作。 `Type: Skill` · `Platforms: Cross-platform`
+- [Travel Records](https://github.com/playsolo/travel-records-skill) — 核對旅行預訂、帳單及其他文件，整理可追溯來源的旅行紀錄與消費明細。 `Type: Skill` · `Platforms: Codex`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — 透過具確定性行為的 CLI，建立並查詢已索引的 Markdown 知識庫。 `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections

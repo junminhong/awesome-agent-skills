@@ -83,6 +83,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [PikPak Download Receipt](https://github.com/alexjun1/pikpak-download-receipt) — Checks a user-selected local download's byte count and SHA-256, comparing trusted expectations when provided. `Type: Skill` · `Platforms: Codex`
 - [PikPak First Save](https://github.com/jinchengwu888/pikpak-first-save) — Guides agents through official PikPak CLI sign-in, saving one authorized URL, and checking cloud-file metadata. `Type: Skill` · `Platforms: Codex`
 - [Syncbook](https://github.com/theguysaccount/syncbook-agent) — Prepares human-approved profiles, finds reciprocal collaborators, and coordinates through scoped agent access. `Type: Skill` · `Platforms: Cross-platform`
+- [Travel Records](https://github.com/playsolo/travel-records-skill) — Reconciles travel bookings, bills, and other documents into reviewable travel history and spending records. `Type: Skill` · `Platforms: Codex`
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) — Creates and queries indexed Markdown knowledge bases with deterministic CLI support for agents. `Type: Skill` · `Platforms: Codex, Claude Code`
 
 ### Skill Collections
