@@ -62,6 +62,7 @@
 #### 溝通與寫作
 
 - [essay-writer](https://github.com/shimellism-eng/essay-writer-editor/tree/main/skills/essay-writer) — 規劃、起草、研究、編修與審閱文章，同時保留作者語氣、證據與不確定性。 `Type: Skill` · `Platforms: Codex, Agent Skills-compatible agents`
+- [gen-ui](https://github.com/yeqiana/gen-ui) — 將 AI 回答整理成易讀的 Markdown 或離線 HTML 報告，同時保留證據與不確定性。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [natural-writing](https://github.com/QwQBiG/skills/tree/main/skills/natural-writing) — 指導 Agent 撰寫、潤飾及審閱中文與英文內容，保留作者語氣和有用細節。 `Type: Skill` · `Platforms: Codex`
 - [Novel Writing](https://github.com/wgwtest/novel-writing) — 指導小說規劃、起草與修訂，檢查人物視角、場景因果、對白及作者文風的保留。 `Type: Skill` · `Platforms: Codex`
 - [publora-post-ideas](https://github.com/publora-team/publora-post-ideas) — 提供社群貼文的多個切入角度供選擇，撰寫選定的那一個，並可透過 Publora 排程發布。 `Type: Skill` · `Platforms: Claude Code, Agent Skills-compatible agents`
