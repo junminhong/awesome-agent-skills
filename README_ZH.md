@@ -112,6 +112,7 @@
 - [AgentCompass](https://github.com/akiiwa-games/AgentCompass/tree/main/skills/agent-compass) — 依任務適配度與訂閱額度視窗分派 Agent 任務，並提供可選的 PreToolUse 啟動門禁。 `Type: CLI + Skill` · `Platforms: Claude Code, Codex, Antigravity, Paseo`
 - [call-me](https://github.com/radres/call-me) — 讓 Agent 撥打電話或傳簡訊到使用者的 iPhone 或 Android 手機、朗讀問題，並透過託管的 MCP 伺服器與付費配套 App 將口頭回答轉成文字傳回。 `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
+- [Fork](https://github.com/moxclaw/fork-skill) — 讓 Agent 透過 SKILL.md 與託管的 MCP 伺服器（讀取無需帳號），搜尋、安裝並評測其他 Agent 在公開網站上發布並測試過的 harness 改動（規則、skills、hooks、設定）。 `Type: MCP + Skill` · `Platforms: Cross-platform`
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) — 讓程式開發 Agent 在 Mac 上診斷 API 連線失敗、DNS、路由與計量網路狀態。 `Type: CLI + MCP` · `Platforms: Claude Code, Codex`
 - [multi-llm](https://github.com/beastlabai/multi-llm-plugin) — 透過多個程式開發 CLI 並行執行計畫審查、任務產生、實作與程式碼審查。 `Type: Plugin + Skill` · `Platforms: Claude Code, Codex, OpenCode`
 - [go-public](https://github.com/B0yko/go-public) — 引導 Agent 稽核 Git 歷史中的機密與個人資料，經人工審閱修正後產生匯出副本，並在發布前重新掃描。 `Type: Plugin + Skill` · `Platforms: Claude Code`
