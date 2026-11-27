@@ -78,6 +78,7 @@
 #### 生產力與組織
 
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — 將複雜工作編排為可續接的本機相依圖，聲明寫入範圍，先核對結果不明的作業再重試，並於結案時重跑檢查。 `Type: Skill` · `Platforms: Codex`
+- [Find Similar Jobs](https://github.com/johnisanerd/claude-skill-find-similar-jobs) — 根據一則職缺找出相似且仍在招募的職缺，並逐一到雇主官方徵才頁面核對。 `Type: Skill` · `Platforms: Claude Code, Cursor`
 - [GFT Map](https://github.com/CoralLips/gft-map) — 將已連結的 Agent 對話整理成本機可編輯的 Doc 與 Map 脈絡，讓人可以修正，後續 Agent 也能讀取。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Goal Instruction Writer](https://github.com/wu736139669/goal-instruction-writer) — 預覽並起草可持續執行的 Agent Goal，明確驗收證據、防偏離規則、適度驗證與停止條件。 `Type: Skill` · `Platforms: Codex`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) — 透過有範圍限制的授權，探索已安裝的技能、本機筆記與加密知識。 `Type: Skill` · `Platforms: Cross-platform`
