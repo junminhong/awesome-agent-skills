@@ -74,6 +74,7 @@
 - [figure-rebuild](https://github.com/TH1RT3EN-LI/figure-rebuild) — 將論文插圖與技術示意圖復建為可編輯的 PowerPoint 圖形、文字與連接器，並保留經稽核的 LaTeX 素材。 `Type: Skill + CLI` · `Platforms: Codex`
 - [InkRoom Prompts Skill](https://github.com/InkRoom-AI/inkroom-prompts/tree/main/skills/inkroom-prompts) — 搜尋附原始示例圖的公開圖片提示詞，並協助改寫提示詞文字。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [runapi-cli-skill](https://github.com/runapi-ai/cli-skill) — 教導 Agent 透過 RunAPI CLI 執行影像、影片、音訊與語言模型工作。 `Type: Skill` · `Platforms: Cross-platform`
+- [SlideMuse](https://github.com/helloo1568/slidemuse) — 將 PDF、論文與報告製作成風格一致的圖片式投影片，並可視需要重建為可編輯的 PowerPoint 簡報。 `Type: Skill` · `Platforms: Cross-platform`
 
 #### 生產力與組織
 
