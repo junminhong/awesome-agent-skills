@@ -57,6 +57,7 @@
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — 引導信用風險模型開發、驗證、報告與策略分析。 `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — 將混合研究來源編譯為由證書約束的分層知識文件，保留證據、適用範圍、觀點、爭議與被排除主張。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [last30days](https://github.com/mvanhorn/last30days-skill) — 調研任一主題在過去 30 天內於 Reddit、X、YouTube、TikTok、Hacker News、Polymarket、GitHub 與網路上的討論，依真實互動排序，並撰寫一份附引用的簡報。 `Type: Skill` · `Platforms: Cross-platform`
+- [Paper2Scroll](https://github.com/khuang9104/paper2scroll/tree/main/skills/paper2scroll) — 將研究論文轉成可追溯原文的長圖、跨論文綜合圖與論點證據表。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [TrendCite](https://github.com/Abaco3300/trendcite) — 收集 Hacker News、GitHub、RSS/Atom 與 Reddit 的公開訊號，並轉換為經評分、可追溯來源且包含信心程度與反面論點的內容機會簡報。 `Type: Skill + CLI` · `Platforms: Claude Code`
 - [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — 透過 REST、MCP、SDK 或 webhook 工作流程處理 X 研究、資料擷取、監測與需確認的發布操作。 `Type: Skill` · `Platforms: Cross-platform`
 
@@ -95,6 +96,7 @@
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
 - [EditRoast Open Skills](https://github.com/ELForestBali/editroast-open-skills) — 提供兩個可重複使用的 Agent Skills，協助逐章分析與校對完整書稿，支援本機檔案準備及可續接的處理流程。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) — 引導 Agent 透過已授權的 Fillfolio MCP 連線，執行唯讀投資組合、現金、支出及預算檢視。 `Type: Collection` · `Platforms: Codex`
+- [GoVisit Toolkit](https://github.com/inhotel-io/govisit-toolkit) — 提供可重複使用的 Agent Skills，透過 GoVisit 探索並讀取已發布的目的地、在地商家與旅遊文件。 `Type: Collection` · `Platforms: Claude Code, Codex, GitHub Copilot, Cursor`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) — 透過 14 個 Skill 引導程式設計 Agent 規劃、組合、編輯、生成及組裝影片。 `Type: Collection` · `Platforms: Codex, Claude Code`
