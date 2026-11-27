@@ -54,6 +54,7 @@
 #### 數據與分析
 
 - [AuditorProcessual](https://github.com/lucianumm/AuditorProcessual) — 引導巴西法律案件分析、證據追溯、官方來源研究及勞動法起訴狀撰寫。 `Type: Skill` · `Platforms: Cross-platform`
+- [CrakSEO SEO Tools](https://github.com/CrakSEO/crakseo-mcp-plugins/tree/main/seo-tools-by-crakseo/skills/seo) — 將關鍵字研究、Google 排名、反向連結、競爭對手與網站稽核問題導向 CrakSEO 託管的 SEO MCP 伺服器，先進行免費的餘額檢查，付費呼叫前會先確認。 `Type: Skill + MCP` · `Platforms: Cursor, Grok Build`
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — 引導信用風險模型開發、驗證、報告與策略分析。 `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — 將混合研究來源編譯為由證書約束的分層知識文件，保留證據、適用範圍、觀點、爭議與被排除主張。 `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Paper2Scroll](https://github.com/khuang9104/paper2scroll/tree/main/skills/paper2scroll) — 將研究論文轉成可追溯原文的長圖、跨論文綜合圖與論點證據表。 `Type: Skill` · `Platforms: Codex, Claude Code`

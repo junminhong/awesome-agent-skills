@@ -54,6 +54,7 @@ This repository is not a package registry, a host for community skill files, a s
 #### Data & Analysis
 
 - [AuditorProcessual](https://github.com/lucianumm/AuditorProcessual) — Guides Brazilian legal case analysis, evidence tracing, official-source research, and labor-law petition drafting. `Type: Skill` · `Platforms: Cross-platform`
+- [CrakSEO SEO Tools](https://github.com/CrakSEO/crakseo-mcp-plugins/tree/main/seo-tools-by-crakseo/skills/seo) — Routes keyword research, Google ranking, backlink, competitor and site-audit questions to CrakSEO's hosted SEO MCP server, starting with a free balance check and confirming before paid calls. `Type: Skill + MCP` · `Platforms: Cursor, Grok Build`
 - [credit-risk-model](https://github.com/W-Y-P/credit-risk-model) — Guides credit-risk model development, validation, reporting, and strategy analysis. `Type: Skill` · `Platforms: Cross-platform`
 - [KnowSift](https://github.com/nhppyqys/knowsift) — Compiles mixed research sources into certificate-backed knowledge documents that preserve evidence, scope, viewpoints, disputes, and rejected claims. `Type: Skill` · `Platforms: Codex, Claude Code`
 - [Paper2Scroll](https://github.com/khuang9104/paper2scroll/tree/main/skills/paper2scroll) — Turns research papers into source-backed infographics, cross-paper synthesis maps, and a claim and evidence table. `Type: Skill` · `Platforms: Codex, Claude Code`
